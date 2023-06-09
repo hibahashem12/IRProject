@@ -1,0 +1,6 @@
+Q1 kv1od8i4 2
+Q10 kv1od8i4 0
+Q16 kv1od8i4 1
+Q31 kv1od8i4 2
+Q32 kv1od8i4 0
+Q40 kv1od8i4 0

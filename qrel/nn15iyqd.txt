@@ -1,0 +1,11 @@
+Q1 nn15iyqd 0
+Q3 nn15iyqd 0
+Q5 nn15iyqd 0
+Q7 nn15iyqd 0
+Q18 nn15iyqd 0
+Q20 nn15iyqd 1
+Q21 nn15iyqd 0
+Q28 nn15iyqd 0
+Q34 nn15iyqd 0
+Q38 nn15iyqd 1
+Q39 nn15iyqd 2

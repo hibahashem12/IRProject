@@ -1,0 +1,8 @@
+Q4 ngsstnpr 0
+Q5 ngsstnpr 0
+Q6 ngsstnpr 0
+Q7 ngsstnpr 0
+Q8 ngsstnpr 1
+Q10 ngsstnpr 2
+Q18 ngsstnpr 0
+Q27 ngsstnpr 1

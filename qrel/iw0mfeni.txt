@@ -1,0 +1,4 @@
+Q10 iw0mfeni 1
+Q12 iw0mfeni 1
+Q19 iw0mfeni 0
+Q44 iw0mfeni 1

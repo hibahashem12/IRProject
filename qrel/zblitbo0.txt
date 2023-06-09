@@ -1,0 +1,11 @@
+Q4 zblitbo0 0
+Q9 zblitbo0 0
+Q11 zblitbo0 1
+Q21 zblitbo0 2
+Q22 zblitbo0 2
+Q23 zblitbo0 2
+Q24 zblitbo0 1
+Q25 zblitbo0 2
+Q27 zblitbo0 0
+Q34 zblitbo0 0
+Q42 zblitbo0 0

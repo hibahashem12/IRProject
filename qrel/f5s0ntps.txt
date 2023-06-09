@@ -1,0 +1,6 @@
+Q3 f5s0ntps 1
+Q32 f5s0ntps 0
+Q33 f5s0ntps 2
+Q36 f5s0ntps 0
+Q40 f5s0ntps 0
+Q50 f5s0ntps 0

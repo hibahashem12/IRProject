@@ -1,0 +1,12 @@
+Q4 2mohptl2 0
+Q8 2mohptl2 0
+Q9 2mohptl2 0
+Q11 2mohptl2 0
+Q17 2mohptl2 0
+Q18 2mohptl2 0
+Q21 2mohptl2 1
+Q23 2mohptl2 0
+Q24 2mohptl2 0
+Q25 2mohptl2 0
+Q27 2mohptl2 0
+Q34 2mohptl2 1

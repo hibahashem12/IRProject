@@ -1,0 +1,6 @@
+Q1 sphwclzs 2
+Q5 sphwclzs 0
+Q15 sphwclzs 0
+Q32 sphwclzs 0
+Q36 sphwclzs 1
+Q37 sphwclzs 0

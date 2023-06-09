@@ -1,0 +1,5 @@
+Q6 py38bel4 2
+Q7 py38bel4 2
+Q15 py38bel4 0
+Q27 py38bel4 1
+Q31 py38bel4 0

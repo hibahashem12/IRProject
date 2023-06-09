@@ -1,0 +1,6 @@
+Q19 mwttkclk 0
+Q20 mwttkclk 2
+Q21 mwttkclk 0
+Q23 mwttkclk 2
+Q24 mwttkclk 0
+Q38 mwttkclk 2

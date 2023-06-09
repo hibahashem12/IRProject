@@ -1,0 +1,5 @@
+Q16 d60vvnfw 1
+Q22 d60vvnfw 2
+Q27 d60vvnfw 1
+Q28 d60vvnfw 0
+Q44 d60vvnfw 0

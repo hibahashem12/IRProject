@@ -1,0 +1,2 @@
+Q6 idft1p6d 1
+Q14 idft1p6d 0

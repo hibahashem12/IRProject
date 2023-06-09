@@ -1,0 +1,8 @@
+Q1 26pcjts9 2
+Q2 26pcjts9 0
+Q5 26pcjts9 0
+Q29 26pcjts9 1
+Q32 26pcjts9 0
+Q36 26pcjts9 2
+Q37 26pcjts9 2
+Q40 26pcjts9 1

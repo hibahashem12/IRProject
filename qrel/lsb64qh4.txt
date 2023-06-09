@@ -1,0 +1,3 @@
+Q3 lsb64qh4 1
+Q6 lsb64qh4 0
+Q17 lsb64qh4 0

@@ -1,0 +1,8 @@
+Q5 p3gswh23 0
+Q20 p3gswh23 1
+Q30 p3gswh23 0
+Q31 p3gswh23 0
+Q32 p3gswh23 0
+Q36 p3gswh23 2
+Q37 p3gswh23 0
+Q38 p3gswh23 0

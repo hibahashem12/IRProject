@@ -1,0 +1,11 @@
+Q1 7i52vltp 1
+Q2 7i52vltp 0
+Q3 7i52vltp 1
+Q5 7i52vltp 1
+Q13 7i52vltp 0
+Q32 7i52vltp 0
+Q33 7i52vltp 2
+Q35 7i52vltp 0
+Q37 7i52vltp 0
+Q40 7i52vltp 0
+Q50 7i52vltp 0

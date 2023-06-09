@@ -1,0 +1,3 @@
+Q6 plst2wno 2
+Q16 plst2wno 0
+Q22 plst2wno 0

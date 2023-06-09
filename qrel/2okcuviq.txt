@@ -1,0 +1,4 @@
+Q3 2okcuviq 1
+Q4 2okcuviq 0
+Q32 2okcuviq 0
+Q49 2okcuviq 0

@@ -1,0 +1,5 @@
+Q4 nx17l3x7 0
+Q22 nx17l3x7 2
+Q25 nx17l3x7 2
+Q28 nx17l3x7 0
+Q35 nx17l3x7 0

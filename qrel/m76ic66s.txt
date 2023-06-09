@@ -1,0 +1,10 @@
+Q4 m76ic66s 0
+Q12 m76ic66s 0
+Q21 m76ic66s 2
+Q22 m76ic66s 0
+Q24 m76ic66s 0
+Q25 m76ic66s 2
+Q27 m76ic66s 0
+Q28 m76ic66s 0
+Q34 m76ic66s 0
+Q38 m76ic66s 0

@@ -1,0 +1,8 @@
+Q1 s9mqv4lo 1
+Q3 s9mqv4lo 0
+Q4 s9mqv4lo 0
+Q8 s9mqv4lo 1
+Q13 s9mqv4lo 0
+Q25 s9mqv4lo 0
+Q32 s9mqv4lo 0
+Q34 s9mqv4lo 0

@@ -1,0 +1,9 @@
+Q1 xxcx7hg5 2
+Q9 xxcx7hg5 0
+Q10 xxcx7hg5 0
+Q14 xxcx7hg5 0
+Q32 xxcx7hg5 0
+Q33 xxcx7hg5 1
+Q36 xxcx7hg5 0
+Q37 xxcx7hg5 2
+Q40 xxcx7hg5 2

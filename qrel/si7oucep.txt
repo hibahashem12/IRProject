@@ -1,0 +1,5 @@
+Q3 si7oucep 0
+Q10 si7oucep 1
+Q31 si7oucep 2
+Q33 si7oucep 0
+Q48 si7oucep 2

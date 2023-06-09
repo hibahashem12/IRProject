@@ -1,0 +1,6 @@
+Q4 bb1tp87n 1
+Q10 bb1tp87n 0
+Q11 bb1tp87n 0
+Q21 bb1tp87n 0
+Q22 bb1tp87n 1
+Q26 bb1tp87n 0

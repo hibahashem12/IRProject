@@ -1,0 +1,7 @@
+Q4 nlavfnpt 2
+Q23 nlavfnpt 0
+Q24 nlavfnpt 0
+Q25 nlavfnpt 2
+Q38 nlavfnpt 1
+Q39 nlavfnpt 2
+Q42 nlavfnpt 0

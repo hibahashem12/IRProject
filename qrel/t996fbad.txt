@@ -1,0 +1,5 @@
+Q11 t996fbad 0
+Q14 t996fbad 1
+Q20 t996fbad 1
+Q25 t996fbad 2
+Q38 t996fbad 1

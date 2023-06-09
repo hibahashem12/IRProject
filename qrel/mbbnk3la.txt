@@ -1,0 +1,7 @@
+Q4 mbbnk3la 1
+Q9 mbbnk3la 0
+Q20 mbbnk3la 1
+Q22 mbbnk3la 2
+Q23 mbbnk3la 1
+Q24 mbbnk3la 0
+Q34 mbbnk3la 0

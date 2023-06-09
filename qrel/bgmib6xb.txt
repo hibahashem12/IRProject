@@ -1,0 +1,4 @@
+Q13 bgmib6xb 1
+Q15 bgmib6xb 1
+Q16 bgmib6xb 0
+Q32 bgmib6xb 0

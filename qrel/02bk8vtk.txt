@@ -1,0 +1,6 @@
+Q8 02bk8vtk 1
+Q9 02bk8vtk 1
+Q14 02bk8vtk 0
+Q21 02bk8vtk 2
+Q34 02bk8vtk 0
+Q43 02bk8vtk 0

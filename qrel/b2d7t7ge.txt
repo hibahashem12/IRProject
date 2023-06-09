@@ -1,0 +1,5 @@
+Q1 b2d7t7ge 1
+Q6 b2d7t7ge 1
+Q7 b2d7t7ge 0
+Q14 b2d7t7ge 0
+Q16 b2d7t7ge 0

@@ -1,0 +1,6 @@
+Q1 s4ef9qob 1
+Q6 s4ef9qob 0
+Q8 s4ef9qob 1
+Q13 s4ef9qob 2
+Q26 s4ef9qob 0
+Q27 s4ef9qob 1

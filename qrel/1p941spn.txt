@@ -1,0 +1,5 @@
+Q1 1p941spn 0
+Q2 1p941spn 2
+Q9 1p941spn 0
+Q13 1p941spn 1
+Q14 1p941spn 0

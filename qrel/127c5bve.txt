@@ -1,0 +1,6 @@
+Q1 127c5bve 2
+Q14 127c5bve 2
+Q15 127c5bve 0
+Q32 127c5bve 2
+Q37 127c5bve 1
+Q40 127c5bve 2

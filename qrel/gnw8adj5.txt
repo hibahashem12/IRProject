@@ -1,0 +1,5 @@
+Q1 gnw8adj5 0
+Q8 gnw8adj5 0
+Q17 gnw8adj5 1
+Q28 gnw8adj5 2
+Q42 gnw8adj5 0

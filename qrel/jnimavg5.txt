@@ -1,0 +1,2 @@
+Q10 jnimavg5 2
+Q48 jnimavg5 1

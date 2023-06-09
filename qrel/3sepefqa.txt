@@ -1,0 +1,4 @@
+Q5 3sepefqa 0
+Q28 3sepefqa 2
+Q33 3sepefqa 1
+Q50 3sepefqa 0

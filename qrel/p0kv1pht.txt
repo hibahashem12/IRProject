@@ -1,0 +1,4 @@
+Q1 p0kv1pht 1
+Q8 p0kv1pht 0
+Q32 p0kv1pht 0
+Q37 p0kv1pht 1

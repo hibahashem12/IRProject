@@ -1,0 +1,6 @@
+Q1 ssa59gng 1
+Q5 ssa59gng 0
+Q9 ssa59gng 0
+Q32 ssa59gng 0
+Q35 ssa59gng 0
+Q37 ssa59gng 2

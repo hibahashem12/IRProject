@@ -1,0 +1,5 @@
+Q4 wxgs1800 0
+Q8 wxgs1800 0
+Q13 wxgs1800 0
+Q18 wxgs1800 0
+Q48 wxgs1800 2

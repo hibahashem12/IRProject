@@ -1,0 +1,5 @@
+Q6 mz1bof2x 1
+Q8 mz1bof2x 0
+Q18 mz1bof2x 0
+Q26 mz1bof2x 2
+Q27 mz1bof2x 2

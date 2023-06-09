@@ -1,0 +1,16 @@
+Q1 vt8w7z01 0
+Q3 vt8w7z01 0
+Q6 vt8w7z01 0
+Q11 vt8w7z01 0
+Q12 vt8w7z01 2
+Q13 vt8w7z01 0
+Q15 vt8w7z01 0
+Q16 vt8w7z01 0
+Q18 vt8w7z01 2
+Q19 vt8w7z01 0
+Q21 vt8w7z01 0
+Q22 vt8w7z01 0
+Q26 vt8w7z01 2
+Q27 vt8w7z01 0
+Q34 vt8w7z01 0
+Q35 vt8w7z01 0

@@ -1,0 +1,15 @@
+Q1 xtqvtleb 1
+Q3 xtqvtleb 0
+Q4 xtqvtleb 0
+Q5 xtqvtleb 0
+Q7 xtqvtleb 0
+Q11 xtqvtleb 0
+Q15 xtqvtleb 0
+Q17 xtqvtleb 1
+Q21 xtqvtleb 0
+Q27 xtqvtleb 0
+Q32 xtqvtleb 0
+Q33 xtqvtleb 2
+Q35 xtqvtleb 0
+Q37 xtqvtleb 2
+Q50 xtqvtleb 1

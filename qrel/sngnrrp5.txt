@@ -1,0 +1,3 @@
+Q20 sngnrrp5 2
+Q22 sngnrrp5 0
+Q28 sngnrrp5 2

@@ -1,0 +1,16 @@
+Q3 4zmqplz0 0
+Q5 4zmqplz0 1
+Q17 4zmqplz0 0
+Q19 4zmqplz0 0
+Q20 4zmqplz0 1
+Q22 4zmqplz0 0
+Q23 4zmqplz0 1
+Q25 4zmqplz0 0
+Q26 4zmqplz0 0
+Q28 4zmqplz0 0
+Q30 4zmqplz0 1
+Q33 4zmqplz0 0
+Q34 4zmqplz0 0
+Q38 4zmqplz0 2
+Q42 4zmqplz0 2
+Q50 4zmqplz0 0

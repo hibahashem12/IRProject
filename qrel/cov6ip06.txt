@@ -1,0 +1,13 @@
+Q3 cov6ip06 0
+Q4 cov6ip06 0
+Q8 cov6ip06 0
+Q9 cov6ip06 0
+Q11 cov6ip06 2
+Q14 cov6ip06 0
+Q17 cov6ip06 2
+Q21 cov6ip06 0
+Q22 cov6ip06 0
+Q31 cov6ip06 1
+Q34 cov6ip06 0
+Q42 cov6ip06 0
+Q46 cov6ip06 0

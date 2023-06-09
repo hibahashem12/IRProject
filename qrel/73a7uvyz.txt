@@ -1,0 +1,17 @@
+Q1 73a7uvyz 1
+Q2 73a7uvyz 0
+Q3 73a7uvyz 0
+Q4 73a7uvyz 1
+Q5 73a7uvyz 0
+Q8 73a7uvyz 0
+Q9 73a7uvyz 0
+Q12 73a7uvyz 1
+Q13 73a7uvyz 2
+Q15 73a7uvyz 0
+Q20 73a7uvyz 0
+Q26 73a7uvyz 0
+Q27 73a7uvyz 0
+Q30 73a7uvyz 0
+Q31 73a7uvyz 0
+Q32 73a7uvyz 0
+Q37 73a7uvyz 1

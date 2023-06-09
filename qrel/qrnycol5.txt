@@ -1,0 +1,4 @@
+Q8 qrnycol5 0
+Q13 qrnycol5 1
+Q36 qrnycol5 0
+Q37 qrnycol5 1

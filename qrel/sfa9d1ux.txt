@@ -1,0 +1,4 @@
+Q13 sfa9d1ux 0
+Q15 sfa9d1ux 1
+Q16 sfa9d1ux 1
+Q19 sfa9d1ux 0

@@ -1,0 +1,4 @@
+Q4 32gw2ug3 0
+Q9 32gw2ug3 1
+Q13 32gw2ug3 2
+Q15 32gw2ug3 0

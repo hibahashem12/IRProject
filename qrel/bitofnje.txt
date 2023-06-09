@@ -1,0 +1,3 @@
+Q32 bitofnje 0
+Q33 bitofnje 2
+Q50 bitofnje 0

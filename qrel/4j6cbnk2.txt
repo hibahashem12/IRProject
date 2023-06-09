@@ -1,0 +1,15 @@
+Q1 4j6cbnk2 0
+Q4 4j6cbnk2 0
+Q13 4j6cbnk2 0
+Q14 4j6cbnk2 0
+Q16 4j6cbnk2 0
+Q17 4j6cbnk2 0
+Q18 4j6cbnk2 0
+Q19 4j6cbnk2 0
+Q21 4j6cbnk2 0
+Q24 4j6cbnk2 0
+Q25 4j6cbnk2 0
+Q26 4j6cbnk2 2
+Q27 4j6cbnk2 0
+Q28 4j6cbnk2 0
+Q30 4j6cbnk2 0

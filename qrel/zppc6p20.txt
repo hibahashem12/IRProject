@@ -1,0 +1,4 @@
+Q11 zppc6p20 0
+Q13 zppc6p20 1
+Q25 zppc6p20 0
+Q35 zppc6p20 0

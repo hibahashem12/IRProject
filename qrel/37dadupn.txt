@@ -1,0 +1,6 @@
+Q1 37dadupn 0
+Q4 37dadupn 1
+Q5 37dadupn 0
+Q22 37dadupn 0
+Q24 37dadupn 0
+Q34 37dadupn 0

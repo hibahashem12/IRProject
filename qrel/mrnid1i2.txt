@@ -1,0 +1,8 @@
+Q1 mrnid1i2 2
+Q5 mrnid1i2 0
+Q15 mrnid1i2 0
+Q16 mrnid1i2 0
+Q29 mrnid1i2 1
+Q31 mrnid1i2 1
+Q36 mrnid1i2 2
+Q37 mrnid1i2 0

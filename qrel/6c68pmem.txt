@@ -1,0 +1,3 @@
+Q1 6c68pmem 2
+Q8 6c68pmem 0
+Q32 6c68pmem 0

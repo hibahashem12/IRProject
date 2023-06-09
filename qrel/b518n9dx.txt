@@ -1,0 +1,10 @@
+Q2 b518n9dx 0
+Q5 b518n9dx 2
+Q7 b518n9dx 0
+Q17 b518n9dx 2
+Q28 b518n9dx 0
+Q29 b518n9dx 1
+Q30 b518n9dx 2
+Q32 b518n9dx 0
+Q33 b518n9dx 0
+Q34 b518n9dx 0

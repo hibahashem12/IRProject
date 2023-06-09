@@ -1,0 +1,4 @@
+Q20 wxpfg25n 2
+Q23 wxpfg25n 2
+Q27 wxpfg25n 1
+Q46 wxpfg25n 0

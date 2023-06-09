@@ -1,0 +1,10 @@
+Q6 tun1ndt4 0
+Q12 tun1ndt4 0
+Q13 tun1ndt4 1
+Q18 tun1ndt4 1
+Q19 tun1ndt4 0
+Q22 tun1ndt4 0
+Q23 tun1ndt4 0
+Q24 tun1ndt4 0
+Q27 tun1ndt4 0
+Q44 tun1ndt4 0

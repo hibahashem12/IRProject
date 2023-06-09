@@ -1,0 +1,9 @@
+Q1 jh9e85c0 1
+Q2 jh9e85c0 0
+Q3 jh9e85c0 1
+Q5 jh9e85c0 0
+Q8 jh9e85c0 0
+Q9 jh9e85c0 0
+Q19 jh9e85c0 0
+Q29 jh9e85c0 2
+Q30 jh9e85c0 0

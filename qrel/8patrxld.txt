@@ -1,0 +1,3 @@
+Q16 8patrxld 0
+Q18 8patrxld 0
+Q31 8patrxld 1

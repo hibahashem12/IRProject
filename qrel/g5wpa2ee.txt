@@ -1,0 +1,6 @@
+Q3 g5wpa2ee 0
+Q5 g5wpa2ee 2
+Q25 g5wpa2ee 0
+Q29 g5wpa2ee 0
+Q33 g5wpa2ee 0
+Q35 g5wpa2ee 0

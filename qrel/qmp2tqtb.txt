@@ -1,0 +1,6 @@
+Q1 qmp2tqtb 0
+Q4 qmp2tqtb 2
+Q22 qmp2tqtb 2
+Q23 qmp2tqtb 0
+Q38 qmp2tqtb 2
+Q39 qmp2tqtb 0

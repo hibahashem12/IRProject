@@ -1,0 +1,5 @@
+Q11 cq276tj8 0
+Q22 cq276tj8 2
+Q25 cq276tj8 1
+Q38 cq276tj8 2
+Q39 cq276tj8 1

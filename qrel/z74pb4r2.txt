@@ -1,0 +1,6 @@
+Q4 z74pb4r2 1
+Q8 z74pb4r2 0
+Q9 z74pb4r2 0
+Q11 z74pb4r2 0
+Q21 z74pb4r2 2
+Q24 z74pb4r2 0

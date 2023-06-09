@@ -1,0 +1,4 @@
+Q1 is20odaq 1
+Q9 is20odaq 0
+Q11 is20odaq 0
+Q13 is20odaq 2

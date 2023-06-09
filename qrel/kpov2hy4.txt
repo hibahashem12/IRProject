@@ -1,0 +1,8 @@
+Q13 kpov2hy4 2
+Q15 kpov2hy4 0
+Q21 kpov2hy4 0
+Q30 kpov2hy4 1
+Q32 kpov2hy4 0
+Q33 kpov2hy4 0
+Q40 kpov2hy4 1
+Q50 kpov2hy4 0

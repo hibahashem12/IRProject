@@ -1,0 +1,4 @@
+Q26 4al2c1qe 0
+Q43 4al2c1qe 0
+Q45 4al2c1qe 1
+Q48 4al2c1qe 1

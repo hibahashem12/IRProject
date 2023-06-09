@@ -1,0 +1,11 @@
+Q3 1vm5r7pq 0
+Q6 1vm5r7pq 0
+Q9 1vm5r7pq 0
+Q17 1vm5r7pq 0
+Q18 1vm5r7pq 0
+Q19 1vm5r7pq 0
+Q20 1vm5r7pq 1
+Q28 1vm5r7pq 0
+Q30 1vm5r7pq 0
+Q38 1vm5r7pq 2
+Q39 1vm5r7pq 2

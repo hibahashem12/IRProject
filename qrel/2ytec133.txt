@@ -1,0 +1,8 @@
+Q1 2ytec133 1
+Q4 2ytec133 0
+Q9 2ytec133 2
+Q10 2ytec133 2
+Q13 2ytec133 1
+Q25 2ytec133 0
+Q32 2ytec133 2
+Q48 2ytec133 0

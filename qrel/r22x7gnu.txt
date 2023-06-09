@@ -1,0 +1,5 @@
+Q5 r22x7gnu 2
+Q9 r22x7gnu 0
+Q10 r22x7gnu 0
+Q25 r22x7gnu 0
+Q30 r22x7gnu 1

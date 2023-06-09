@@ -1,0 +1,4 @@
+Q16 lncsfohg 0
+Q18 lncsfohg 2
+Q19 lncsfohg 0
+Q44 lncsfohg 1

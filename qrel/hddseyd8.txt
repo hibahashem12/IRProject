@@ -1,0 +1,3 @@
+Q18 hddseyd8 2
+Q19 hddseyd8 0
+Q44 hddseyd8 0

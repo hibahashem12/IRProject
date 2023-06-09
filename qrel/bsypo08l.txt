@@ -1,0 +1,7 @@
+Q1 bsypo08l 2
+Q31 bsypo08l 0
+Q32 bsypo08l 1
+Q35 bsypo08l 2
+Q36 bsypo08l 0
+Q37 bsypo08l 0
+Q40 bsypo08l 2

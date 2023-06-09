@@ -1,0 +1,5 @@
+Q1 o349msnm 0
+Q4 o349msnm 1
+Q19 o349msnm 0
+Q22 o349msnm 1
+Q30 o349msnm 0

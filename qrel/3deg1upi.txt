@@ -1,0 +1,2 @@
+Q3 3deg1upi 1
+Q7 3deg1upi 0

@@ -1,0 +1,12 @@
+Q3 x1u70y1x 0
+Q5 x1u70y1x 0
+Q12 x1u70y1x 0
+Q15 x1u70y1x 0
+Q17 x1u70y1x 1
+Q19 x1u70y1x 0
+Q31 x1u70y1x 1
+Q32 x1u70y1x 0
+Q33 x1u70y1x 2
+Q35 x1u70y1x 0
+Q36 x1u70y1x 0
+Q50 x1u70y1x 0

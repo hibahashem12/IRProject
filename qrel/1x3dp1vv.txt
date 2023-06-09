@@ -1,0 +1,4 @@
+Q2 1x3dp1vv 2
+Q13 1x3dp1vv 1
+Q15 1x3dp1vv 0
+Q29 1x3dp1vv 0

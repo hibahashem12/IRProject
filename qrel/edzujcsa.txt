@@ -1,0 +1,6 @@
+Q8 edzujcsa 1
+Q9 edzujcsa 0
+Q11 edzujcsa 1
+Q21 edzujcsa 2
+Q34 edzujcsa 0
+Q43 edzujcsa 0

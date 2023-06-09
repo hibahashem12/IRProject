@@ -1,0 +1,6 @@
+Q1 6xcctafe 0
+Q4 6xcctafe 0
+Q6 6xcctafe 0
+Q18 6xcctafe 1
+Q23 6xcctafe 0
+Q24 6xcctafe 0

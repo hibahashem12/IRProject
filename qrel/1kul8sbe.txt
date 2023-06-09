@@ -1,0 +1,4 @@
+Q20 1kul8sbe 2
+Q23 1kul8sbe 0
+Q24 1kul8sbe 2
+Q42 1kul8sbe 0

@@ -1,0 +1,6 @@
+Q3 9rugpout 0
+Q11 9rugpout 0
+Q21 9rugpout 0
+Q22 9rugpout 0
+Q33 9rugpout 0
+Q40 9rugpout 0

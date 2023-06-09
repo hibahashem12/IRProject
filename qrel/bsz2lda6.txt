@@ -1,0 +1,9 @@
+Q4 bsz2lda6 2
+Q19 bsz2lda6 0
+Q20 bsz2lda6 0
+Q21 bsz2lda6 2
+Q22 bsz2lda6 0
+Q23 bsz2lda6 0
+Q24 bsz2lda6 0
+Q25 bsz2lda6 2
+Q34 bsz2lda6 0

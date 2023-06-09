@@ -1,0 +1,12 @@
+Q4 4cx6fe5v 1
+Q9 4cx6fe5v 0
+Q13 4cx6fe5v 1
+Q14 4cx6fe5v 0
+Q15 4cx6fe5v 1
+Q20 4cx6fe5v 1
+Q21 4cx6fe5v 2
+Q23 4cx6fe5v 0
+Q24 4cx6fe5v 2
+Q26 4cx6fe5v 1
+Q34 4cx6fe5v 0
+Q38 4cx6fe5v 2

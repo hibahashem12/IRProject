@@ -1,0 +1,6 @@
+Q1 ayhsbfd1 2
+Q5 ayhsbfd1 0
+Q15 ayhsbfd1 0
+Q32 ayhsbfd1 2
+Q36 ayhsbfd1 2
+Q37 ayhsbfd1 2

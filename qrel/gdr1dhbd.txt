@@ -1,0 +1,4 @@
+Q11 gdr1dhbd 0
+Q13 gdr1dhbd 0
+Q18 gdr1dhbd 1
+Q44 gdr1dhbd 1

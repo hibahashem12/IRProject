@@ -1,0 +1,8 @@
+Q8 8dc7andx 0
+Q9 8dc7andx 0
+Q13 8dc7andx 0
+Q15 8dc7andx 0
+Q16 8dc7andx 0
+Q32 8dc7andx 2
+Q37 8dc7andx 2
+Q40 8dc7andx 1

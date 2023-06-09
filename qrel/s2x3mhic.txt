@@ -1,0 +1,4 @@
+Q11 s2x3mhic 0
+Q22 s2x3mhic 2
+Q23 s2x3mhic 2
+Q24 s2x3mhic 1

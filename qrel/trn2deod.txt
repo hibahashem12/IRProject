@@ -1,0 +1,2 @@
+Q10 trn2deod 2
+Q44 trn2deod 0

@@ -1,0 +1,9 @@
+Q5 gpr86lxe 2
+Q18 gpr86lxe 0
+Q21 gpr86lxe 0
+Q28 gpr86lxe 0
+Q29 gpr86lxe 2
+Q30 gpr86lxe 1
+Q31 gpr86lxe 0
+Q32 gpr86lxe 0
+Q36 gpr86lxe 0

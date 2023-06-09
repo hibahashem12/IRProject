@@ -1,0 +1,5 @@
+Q11 cadudlt3 1
+Q18 cadudlt3 1
+Q19 cadudlt3 0
+Q23 cadudlt3 0
+Q26 cadudlt3 0

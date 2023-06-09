@@ -1,0 +1,5 @@
+Q13 rt6x7vkp 1
+Q14 rt6x7vkp 0
+Q16 rt6x7vkp 1
+Q34 rt6x7vkp 0
+Q44 rt6x7vkp 0

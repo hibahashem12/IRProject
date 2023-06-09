@@ -1,0 +1,4 @@
+Q20 nd4mop1b 1
+Q22 nd4mop1b 0
+Q24 nd4mop1b 0
+Q26 nd4mop1b 0

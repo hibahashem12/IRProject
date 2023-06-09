@@ -1,0 +1,16 @@
+Q1 lfndq85x 2
+Q2 lfndq85x 0
+Q5 lfndq85x 0
+Q8 lfndq85x 0
+Q13 lfndq85x 2
+Q14 lfndq85x 0
+Q15 lfndq85x 0
+Q16 lfndq85x 1
+Q25 lfndq85x 0
+Q27 lfndq85x 0
+Q30 lfndq85x 0
+Q32 lfndq85x 0
+Q36 lfndq85x 0
+Q37 lfndq85x 1
+Q38 lfndq85x 0
+Q40 lfndq85x 0

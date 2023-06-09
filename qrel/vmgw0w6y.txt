@@ -1,0 +1,3 @@
+Q6 vmgw0w6y 2
+Q7 vmgw0w6y 0
+Q26 vmgw0w6y 0

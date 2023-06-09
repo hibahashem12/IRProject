@@ -1,0 +1,6 @@
+Q6 1wcltcpr 2
+Q12 1wcltcpr 0
+Q13 1wcltcpr 0
+Q15 1wcltcpr 0
+Q17 1wcltcpr 1
+Q29 1wcltcpr 1

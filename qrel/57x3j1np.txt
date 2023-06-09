@@ -1,0 +1,8 @@
+Q1 57x3j1np 0
+Q4 57x3j1np 0
+Q11 57x3j1np 0
+Q12 57x3j1np 1
+Q13 57x3j1np 0
+Q18 57x3j1np 0
+Q21 57x3j1np 0
+Q44 57x3j1np 0

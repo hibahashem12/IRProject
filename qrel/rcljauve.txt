@@ -1,0 +1,3 @@
+Q1 rcljauve 0
+Q15 rcljauve 0
+Q27 rcljauve 1

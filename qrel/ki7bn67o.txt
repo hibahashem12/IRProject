@@ -1,0 +1,12 @@
+Q1 ki7bn67o 0
+Q3 ki7bn67o 0
+Q12 ki7bn67o 0
+Q13 ki7bn67o 1
+Q15 ki7bn67o 1
+Q16 ki7bn67o 1
+Q19 ki7bn67o 0
+Q27 ki7bn67o 1
+Q31 ki7bn67o 1
+Q32 ki7bn67o 0
+Q33 ki7bn67o 0
+Q34 ki7bn67o 0

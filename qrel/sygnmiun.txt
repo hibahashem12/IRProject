@@ -1,0 +1,7 @@
+Q1 sygnmiun 2
+Q5 sygnmiun 0
+Q29 sygnmiun 1
+Q35 sygnmiun 0
+Q36 sygnmiun 2
+Q37 sygnmiun 0
+Q40 sygnmiun 1

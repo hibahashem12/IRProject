@@ -1,0 +1,7 @@
+Q1 klj710h2 0
+Q4 klj710h2 1
+Q6 klj710h2 0
+Q14 klj710h2 0
+Q20 klj710h2 1
+Q25 klj710h2 0
+Q35 klj710h2 0

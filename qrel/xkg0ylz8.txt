@@ -1,0 +1,13 @@
+Q3 xkg0ylz8 0
+Q4 xkg0ylz8 0
+Q20 xkg0ylz8 1
+Q22 xkg0ylz8 2
+Q23 xkg0ylz8 1
+Q24 xkg0ylz8 0
+Q28 xkg0ylz8 0
+Q29 xkg0ylz8 1
+Q30 xkg0ylz8 0
+Q34 xkg0ylz8 0
+Q38 xkg0ylz8 2
+Q39 xkg0ylz8 1
+Q47 xkg0ylz8 0

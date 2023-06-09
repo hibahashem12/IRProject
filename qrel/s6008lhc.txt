@@ -1,0 +1,13 @@
+Q2 s6008lhc 0
+Q3 s6008lhc 1
+Q4 s6008lhc 0
+Q7 s6008lhc 0
+Q9 s6008lhc 0
+Q13 s6008lhc 0
+Q15 s6008lhc 0
+Q16 s6008lhc 0
+Q17 s6008lhc 0
+Q19 s6008lhc 0
+Q21 s6008lhc 0
+Q25 s6008lhc 0
+Q26 s6008lhc 0

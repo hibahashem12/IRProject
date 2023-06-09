@@ -1,0 +1,2 @@
+Q20 rw37biop 0
+Q30 rw37biop 1

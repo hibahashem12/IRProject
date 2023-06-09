@@ -1,0 +1,4 @@
+Q1 3zmq7nd5 0
+Q3 3zmq7nd5 2
+Q26 3zmq7nd5 1
+Q32 3zmq7nd5 0

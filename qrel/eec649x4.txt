@@ -1,0 +1,5 @@
+Q1 eec649x4 1
+Q15 eec649x4 0
+Q34 eec649x4 0
+Q35 eec649x4 0
+Q50 eec649x4 0

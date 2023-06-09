@@ -1,0 +1,4 @@
+Q1 npcu4wq1 2
+Q32 npcu4wq1 1
+Q37 npcu4wq1 2
+Q40 npcu4wq1 0

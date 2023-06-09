@@ -1,0 +1,3 @@
+Q1 z0ni2jsr 1
+Q13 z0ni2jsr 0
+Q40 z0ni2jsr 1

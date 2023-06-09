@@ -1,0 +1,5 @@
+Q1 bgh729s5 2
+Q3 bgh729s5 0
+Q12 bgh729s5 0
+Q37 bgh729s5 2
+Q40 bgh729s5 1

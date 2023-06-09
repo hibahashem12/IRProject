@@ -1,0 +1,4 @@
+Q11 pd70i3d8 1
+Q23 pd70i3d8 0
+Q25 pd70i3d8 2
+Q26 pd70i3d8 0

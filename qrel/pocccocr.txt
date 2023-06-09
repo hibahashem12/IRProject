@@ -1,0 +1,6 @@
+Q11 pocccocr 0
+Q13 pocccocr 1
+Q15 pocccocr 0
+Q26 pocccocr 2
+Q31 pocccocr 0
+Q35 pocccocr 0

@@ -1,0 +1,6 @@
+Q1 ork04nx8 1
+Q8 ork04nx8 0
+Q15 ork04nx8 0
+Q21 ork04nx8 2
+Q31 ork04nx8 0
+Q40 ork04nx8 0

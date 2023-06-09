@@ -1,0 +1,8 @@
+Q6 ver7x3lx 0
+Q11 ver7x3lx 0
+Q14 ver7x3lx 0
+Q21 ver7x3lx 0
+Q25 ver7x3lx 0
+Q34 ver7x3lx 0
+Q38 ver7x3lx 2
+Q46 ver7x3lx 1

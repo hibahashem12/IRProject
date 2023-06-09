@@ -1,0 +1,4 @@
+Q1 p7ifetgw 1
+Q16 p7ifetgw 0
+Q32 p7ifetgw 0
+Q35 p7ifetgw 0

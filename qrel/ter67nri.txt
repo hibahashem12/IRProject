@@ -1,0 +1,14 @@
+Q1 ter67nri 0
+Q4 ter67nri 2
+Q14 ter67nri 0
+Q20 ter67nri 1
+Q22 ter67nri 2
+Q23 ter67nri 1
+Q24 ter67nri 0
+Q25 ter67nri 1
+Q26 ter67nri 0
+Q27 ter67nri 0
+Q31 ter67nri 0
+Q34 ter67nri 1
+Q38 ter67nri 1
+Q39 ter67nri 1

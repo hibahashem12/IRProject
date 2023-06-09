@@ -1,0 +1,7 @@
+Q1 9ujofcsm 0
+Q3 9ujofcsm 1
+Q5 9ujofcsm 2
+Q9 9ujofcsm 0
+Q15 9ujofcsm 0
+Q21 9ujofcsm 0
+Q29 9ujofcsm 1

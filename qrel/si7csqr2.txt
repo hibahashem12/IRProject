@@ -1,0 +1,7 @@
+Q12 si7csqr2 2
+Q13 si7csqr2 1
+Q14 si7csqr2 0
+Q18 si7csqr2 0
+Q19 si7csqr2 0
+Q41 si7csqr2 0
+Q44 si7csqr2 0

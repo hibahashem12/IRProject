@@ -1,0 +1,6 @@
+Q5 mgp38mdz 0
+Q20 mgp38mdz 2
+Q22 mgp38mdz 1
+Q23 mgp38mdz 2
+Q24 mgp38mdz 0
+Q28 mgp38mdz 0

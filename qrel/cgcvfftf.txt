@@ -1,0 +1,11 @@
+Q11 cgcvfftf 0
+Q15 cgcvfftf 0
+Q16 cgcvfftf 0
+Q19 cgcvfftf 0
+Q21 cgcvfftf 0
+Q24 cgcvfftf 0
+Q31 cgcvfftf 0
+Q32 cgcvfftf 0
+Q33 cgcvfftf 0
+Q34 cgcvfftf 0
+Q35 cgcvfftf 0

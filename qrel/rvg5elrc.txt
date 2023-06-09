@@ -1,0 +1,12 @@
+Q1 rvg5elrc 0
+Q4 rvg5elrc 0
+Q6 rvg5elrc 1
+Q8 rvg5elrc 0
+Q11 rvg5elrc 0
+Q13 rvg5elrc 1
+Q17 rvg5elrc 0
+Q18 rvg5elrc 1
+Q19 rvg5elrc 0
+Q21 rvg5elrc 0
+Q26 rvg5elrc 0
+Q27 rvg5elrc 0

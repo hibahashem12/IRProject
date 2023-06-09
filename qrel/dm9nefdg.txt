@@ -1,0 +1,9 @@
+Q11 dm9nefdg 2
+Q20 dm9nefdg 1
+Q22 dm9nefdg 2
+Q23 dm9nefdg 0
+Q24 dm9nefdg 0
+Q25 dm9nefdg 0
+Q34 dm9nefdg 0
+Q38 dm9nefdg 2
+Q39 dm9nefdg 2

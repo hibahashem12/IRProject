@@ -1,0 +1,3 @@
+Q8 pxymczn2 0
+Q10 pxymczn2 2
+Q12 pxymczn2 1

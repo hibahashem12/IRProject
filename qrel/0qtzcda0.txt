@@ -1,0 +1,5 @@
+Q3 0qtzcda0 0
+Q8 0qtzcda0 0
+Q18 0qtzcda0 0
+Q33 0qtzcda0 1
+Q49 0qtzcda0 0

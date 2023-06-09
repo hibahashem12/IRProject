@@ -1,0 +1,5 @@
+Q1 30duqivi 1
+Q7 30duqivi 0
+Q8 30duqivi 1
+Q15 30duqivi 0
+Q16 30duqivi 0

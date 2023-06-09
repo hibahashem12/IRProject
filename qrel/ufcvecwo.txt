@@ -1,0 +1,8 @@
+Q8 ufcvecwo 0
+Q17 ufcvecwo 2
+Q23 ufcvecwo 0
+Q24 ufcvecwo 0
+Q25 ufcvecwo 0
+Q28 ufcvecwo 0
+Q30 ufcvecwo 2
+Q34 ufcvecwo 0

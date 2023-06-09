@@ -1,0 +1,6 @@
+Q13 qwngx01h 1
+Q18 qwngx01h 2
+Q27 qwngx01h 1
+Q31 qwngx01h 0
+Q35 qwngx01h 0
+Q44 qwngx01h 2

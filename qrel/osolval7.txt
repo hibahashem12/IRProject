@@ -1,0 +1,3 @@
+Q30 osolval7 1
+Q46 osolval7 0
+Q49 osolval7 0

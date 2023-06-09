@@ -1,0 +1,7 @@
+Q3 rtnhndw3 1
+Q8 rtnhndw3 0
+Q18 rtnhndw3 2
+Q26 rtnhndw3 1
+Q27 rtnhndw3 0
+Q34 rtnhndw3 0
+Q43 rtnhndw3 0

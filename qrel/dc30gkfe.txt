@@ -1,0 +1,9 @@
+Q1 dc30gkfe 0
+Q4 dc30gkfe 0
+Q9 dc30gkfe 1
+Q19 dc30gkfe 0
+Q21 dc30gkfe 2
+Q30 dc30gkfe 0
+Q34 dc30gkfe 0
+Q42 dc30gkfe 0
+Q46 dc30gkfe 0

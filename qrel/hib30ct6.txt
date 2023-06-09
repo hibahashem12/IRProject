@@ -1,0 +1,5 @@
+Q1 hib30ct6 2
+Q32 hib30ct6 0
+Q36 hib30ct6 0
+Q37 hib30ct6 0
+Q40 hib30ct6 2

@@ -1,0 +1,6 @@
+Q6 90tccg03 1
+Q8 90tccg03 2
+Q9 90tccg03 0
+Q26 90tccg03 0
+Q27 90tccg03 0
+Q31 90tccg03 0

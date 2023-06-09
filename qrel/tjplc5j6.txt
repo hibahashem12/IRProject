@@ -1,0 +1,8 @@
+Q2 tjplc5j6 1
+Q4 tjplc5j6 0
+Q13 tjplc5j6 1
+Q14 tjplc5j6 0
+Q15 tjplc5j6 1
+Q16 tjplc5j6 1
+Q21 tjplc5j6 0
+Q22 tjplc5j6 0

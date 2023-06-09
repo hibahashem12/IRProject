@@ -1,0 +1,6 @@
+Q4 lp3l4iap 0
+Q8 lp3l4iap 2
+Q10 lp3l4iap 0
+Q21 lp3l4iap 2
+Q31 lp3l4iap 1
+Q35 lp3l4iap 0

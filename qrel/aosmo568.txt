@@ -1,0 +1,7 @@
+Q8 aosmo568 0
+Q17 aosmo568 2
+Q29 aosmo568 0
+Q30 aosmo568 1
+Q33 aosmo568 0
+Q34 aosmo568 0
+Q46 aosmo568 0

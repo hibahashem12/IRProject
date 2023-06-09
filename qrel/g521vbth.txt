@@ -1,0 +1,7 @@
+Q8 g521vbth 1
+Q10 g521vbth 1
+Q12 g521vbth 0
+Q18 g521vbth 0
+Q19 g521vbth 0
+Q37 g521vbth 0
+Q44 g521vbth 1

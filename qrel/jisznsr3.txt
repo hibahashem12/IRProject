@@ -1,0 +1,5 @@
+Q17 jisznsr3 1
+Q20 jisznsr3 0
+Q28 jisznsr3 2
+Q30 jisznsr3 0
+Q46 jisznsr3 0

@@ -1,0 +1,8 @@
+Q1 ore3r4m3 0
+Q2 ore3r4m3 0
+Q3 ore3r4m3 0
+Q11 ore3r4m3 0
+Q12 ore3r4m3 0
+Q27 ore3r4m3 0
+Q31 ore3r4m3 0
+Q34 ore3r4m3 0

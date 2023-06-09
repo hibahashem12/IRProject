@@ -1,0 +1,7 @@
+Q23 kc8xff5n 1
+Q24 kc8xff5n 1
+Q35 kc8xff5n 0
+Q38 kc8xff5n 0
+Q39 kc8xff5n 1
+Q41 kc8xff5n 1
+Q47 kc8xff5n 0

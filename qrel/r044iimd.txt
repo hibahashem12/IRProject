@@ -1,0 +1,6 @@
+Q4 r044iimd 0
+Q10 r044iimd 1
+Q12 r044iimd 0
+Q13 r044iimd 0
+Q34 r044iimd 0
+Q43 r044iimd 0

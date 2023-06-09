@@ -1,0 +1,5 @@
+Q1 65nroic5 0
+Q4 65nroic5 0
+Q6 65nroic5 1
+Q26 65nroic5 0
+Q34 65nroic5 0

@@ -1,0 +1,6 @@
+Q4 elmagpu4 0
+Q6 elmagpu4 0
+Q10 elmagpu4 1
+Q13 elmagpu4 1
+Q22 elmagpu4 0
+Q27 elmagpu4 0

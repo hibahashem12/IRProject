@@ -1,0 +1,7 @@
+Q2 sqf6dlcy 2
+Q15 sqf6dlcy 2
+Q16 sqf6dlcy 2
+Q19 sqf6dlcy 0
+Q31 sqf6dlcy 1
+Q44 sqf6dlcy 0
+Q50 sqf6dlcy 0

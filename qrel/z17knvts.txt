@@ -1,0 +1,4 @@
+Q17 z17knvts 1
+Q29 z17knvts 1
+Q33 z17knvts 0
+Q50 z17knvts 1

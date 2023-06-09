@@ -1,0 +1,9 @@
+Q1 luxgc7st 1
+Q7 luxgc7st 0
+Q9 luxgc7st 0
+Q13 luxgc7st 1
+Q15 luxgc7st 0
+Q22 luxgc7st 0
+Q27 luxgc7st 1
+Q31 luxgc7st 2
+Q35 luxgc7st 0

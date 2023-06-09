@@ -1,0 +1,4 @@
+Q1 pauzgepm 1
+Q13 pauzgepm 2
+Q15 pauzgepm 0
+Q31 pauzgepm 0

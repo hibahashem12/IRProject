@@ -1,0 +1,2 @@
+Q10 tbpr30ic 1
+Q12 tbpr30ic 0

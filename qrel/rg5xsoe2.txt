@@ -1,0 +1,5 @@
+Q1 rg5xsoe2 0
+Q25 rg5xsoe2 0
+Q26 rg5xsoe2 2
+Q27 rg5xsoe2 1
+Q47 rg5xsoe2 2

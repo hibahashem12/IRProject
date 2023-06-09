@@ -1,0 +1,3 @@
+Q16 gmmsb4mh 1
+Q18 gmmsb4mh 0
+Q44 gmmsb4mh 2

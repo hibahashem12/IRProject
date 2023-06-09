@@ -1,0 +1,9 @@
+Q5 g42gfovg 0
+Q13 g42gfovg 1
+Q16 g42gfovg 1
+Q23 g42gfovg 0
+Q24 g42gfovg 0
+Q27 g42gfovg 1
+Q33 g42gfovg 0
+Q34 g42gfovg 1
+Q38 g42gfovg 1

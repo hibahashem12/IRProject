@@ -1,0 +1,11 @@
+Q1 rxrlbw60 1
+Q5 rxrlbw60 0
+Q9 rxrlbw60 0
+Q13 rxrlbw60 1
+Q15 rxrlbw60 0
+Q20 rxrlbw60 1
+Q25 rxrlbw60 0
+Q26 rxrlbw60 0
+Q27 rxrlbw60 1
+Q29 rxrlbw60 1
+Q33 rxrlbw60 0

@@ -1,0 +1,4 @@
+Q1 f03san07 1
+Q5 f03san07 1
+Q29 f03san07 0
+Q37 f03san07 0

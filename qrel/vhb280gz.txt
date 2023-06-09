@@ -1,0 +1,3 @@
+Q32 vhb280gz 1
+Q36 vhb280gz 0
+Q37 vhb280gz 1

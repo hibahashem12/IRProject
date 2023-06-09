@@ -1,0 +1,5 @@
+Q5 t1xjy12y 0
+Q33 t1xjy12y 1
+Q34 t1xjy12y 0
+Q37 t1xjy12y 2
+Q50 t1xjy12y 0

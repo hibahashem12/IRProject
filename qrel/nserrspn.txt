@@ -1,0 +1,11 @@
+Q4 nserrspn 0
+Q6 nserrspn 0
+Q7 nserrspn 0
+Q10 nserrspn 2
+Q13 nserrspn 0
+Q15 nserrspn 0
+Q16 nserrspn 0
+Q19 nserrspn 0
+Q27 nserrspn 1
+Q33 nserrspn 0
+Q34 nserrspn 0

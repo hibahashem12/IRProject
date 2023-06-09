@@ -1,0 +1,6 @@
+Q17 nedsqmr0 1
+Q28 nedsqmr0 2
+Q29 nedsqmr0 0
+Q30 nedsqmr0 0
+Q34 nedsqmr0 0
+Q46 nedsqmr0 1

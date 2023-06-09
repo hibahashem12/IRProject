@@ -1,0 +1,15 @@
+Q1 wl121lg4 1
+Q3 wl121lg4 1
+Q4 wl121lg4 0
+Q5 wl121lg4 0
+Q7 wl121lg4 1
+Q8 wl121lg4 0
+Q9 wl121lg4 0
+Q15 wl121lg4 0
+Q19 wl121lg4 0
+Q22 wl121lg4 0
+Q24 wl121lg4 0
+Q29 wl121lg4 2
+Q30 wl121lg4 1
+Q37 wl121lg4 2
+Q38 wl121lg4 1

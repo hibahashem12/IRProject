@@ -1,0 +1,4 @@
+Q8 iwsa760n 0
+Q17 iwsa760n 2
+Q30 iwsa760n 1
+Q34 iwsa760n 0

@@ -1,0 +1,7 @@
+Q2 tlc021js 0
+Q8 tlc021js 0
+Q9 tlc021js 0
+Q11 tlc021js 0
+Q28 tlc021js 0
+Q34 tlc021js 0
+Q45 tlc021js 2

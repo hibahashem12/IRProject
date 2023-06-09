@@ -1,0 +1,4 @@
+Q3 bsb526gx 0
+Q13 bsb526gx 2
+Q15 bsb526gx 2
+Q16 bsb526gx 0

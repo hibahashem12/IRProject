@@ -1,0 +1,5 @@
+Q8 ragcpbl6 0
+Q10 ragcpbl6 0
+Q13 ragcpbl6 1
+Q15 ragcpbl6 0
+Q26 ragcpbl6 0

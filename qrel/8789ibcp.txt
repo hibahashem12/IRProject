@@ -1,0 +1,8 @@
+Q9 8789ibcp 0
+Q11 8789ibcp 0
+Q17 8789ibcp 1
+Q21 8789ibcp 0
+Q23 8789ibcp 2
+Q25 8789ibcp 2
+Q27 8789ibcp 1
+Q35 8789ibcp 0

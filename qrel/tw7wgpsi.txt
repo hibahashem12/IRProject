@@ -1,0 +1,6 @@
+Q6 tw7wgpsi 2
+Q8 tw7wgpsi 0
+Q11 tw7wgpsi 0
+Q12 tw7wgpsi 0
+Q26 tw7wgpsi 0
+Q27 tw7wgpsi 1

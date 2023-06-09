@@ -1,0 +1,10 @@
+Q4 11sxecb3 0
+Q8 11sxecb3 0
+Q11 11sxecb3 1
+Q14 11sxecb3 0
+Q18 11sxecb3 2
+Q22 11sxecb3 1
+Q28 11sxecb3 0
+Q30 11sxecb3 1
+Q34 11sxecb3 0
+Q39 11sxecb3 1

@@ -1,0 +1,8 @@
+Q3 w02mylsc 0
+Q17 w02mylsc 2
+Q28 w02mylsc 0
+Q29 w02mylsc 2
+Q30 w02mylsc 0
+Q33 w02mylsc 0
+Q34 w02mylsc 0
+Q46 w02mylsc 1

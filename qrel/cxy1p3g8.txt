@@ -1,0 +1,8 @@
+Q3 cxy1p3g8 0
+Q8 cxy1p3g8 0
+Q13 cxy1p3g8 1
+Q15 cxy1p3g8 0
+Q17 cxy1p3g8 1
+Q21 cxy1p3g8 0
+Q26 cxy1p3g8 1
+Q47 cxy1p3g8 1

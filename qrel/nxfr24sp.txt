@@ -1,0 +1,11 @@
+Q1 nxfr24sp 0
+Q8 nxfr24sp 0
+Q10 nxfr24sp 0
+Q11 nxfr24sp 0
+Q17 nxfr24sp 0
+Q18 nxfr24sp 2
+Q20 nxfr24sp 0
+Q22 nxfr24sp 0
+Q23 nxfr24sp 0
+Q30 nxfr24sp 0
+Q34 nxfr24sp 0

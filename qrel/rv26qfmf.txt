@@ -1,0 +1,14 @@
+Q2 rv26qfmf 0
+Q3 rv26qfmf 2
+Q7 rv26qfmf 0
+Q11 rv26qfmf 0
+Q13 rv26qfmf 0
+Q15 rv26qfmf 0
+Q16 rv26qfmf 0
+Q20 rv26qfmf 1
+Q21 rv26qfmf 0
+Q25 rv26qfmf 0
+Q29 rv26qfmf 2
+Q30 rv26qfmf 0
+Q31 rv26qfmf 1
+Q36 rv26qfmf 1

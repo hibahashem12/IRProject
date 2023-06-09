@@ -1,0 +1,4 @@
+Q6 b21myin4 2
+Q18 b21myin4 0
+Q19 b21myin4 0
+Q27 b21myin4 1

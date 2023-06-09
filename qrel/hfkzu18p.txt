@@ -1,0 +1,11 @@
+Q1 hfkzu18p 1
+Q5 hfkzu18p 1
+Q6 hfkzu18p 0
+Q8 hfkzu18p 0
+Q12 hfkzu18p 0
+Q13 hfkzu18p 2
+Q15 hfkzu18p 0
+Q27 hfkzu18p 1
+Q28 hfkzu18p 0
+Q30 hfkzu18p 1
+Q31 hfkzu18p 0

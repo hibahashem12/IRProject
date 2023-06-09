@@ -1,0 +1,4 @@
+Q32 msggi1p2 2
+Q36 msggi1p2 0
+Q37 msggi1p2 0
+Q40 msggi1p2 2

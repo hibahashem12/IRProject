@@ -1,0 +1,4 @@
+Q26 1ns6zi27 0
+Q34 1ns6zi27 0
+Q38 1ns6zi27 2
+Q49 1ns6zi27 0

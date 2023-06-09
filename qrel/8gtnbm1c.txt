@@ -1,0 +1,6 @@
+Q1 8gtnbm1c 2
+Q9 8gtnbm1c 0
+Q32 8gtnbm1c 2
+Q37 8gtnbm1c 2
+Q40 8gtnbm1c 1
+Q44 8gtnbm1c 0

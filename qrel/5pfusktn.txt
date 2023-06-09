@@ -1,0 +1,11 @@
+Q4 5pfusktn 0
+Q5 5pfusktn 0
+Q7 5pfusktn 0
+Q8 5pfusktn 0
+Q11 5pfusktn 1
+Q15 5pfusktn 0
+Q16 5pfusktn 0
+Q17 5pfusktn 0
+Q18 5pfusktn 0
+Q21 5pfusktn 2
+Q35 5pfusktn 0

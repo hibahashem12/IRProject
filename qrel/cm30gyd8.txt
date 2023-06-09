@@ -1,0 +1,4 @@
+Q3 cm30gyd8 1
+Q32 cm30gyd8 0
+Q33 cm30gyd8 1
+Q50 cm30gyd8 0

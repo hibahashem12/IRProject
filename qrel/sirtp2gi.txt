@@ -1,0 +1,4 @@
+Q3 sirtp2gi 0
+Q32 sirtp2gi 2
+Q37 sirtp2gi 2
+Q40 sirtp2gi 2

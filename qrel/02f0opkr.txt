@@ -1,0 +1,12 @@
+Q1 02f0opkr 1
+Q2 02f0opkr 0
+Q4 02f0opkr 0
+Q5 02f0opkr 0
+Q6 02f0opkr 0
+Q8 02f0opkr 0
+Q13 02f0opkr 1
+Q15 02f0opkr 0
+Q19 02f0opkr 0
+Q26 02f0opkr 0
+Q32 02f0opkr 0
+Q35 02f0opkr 0

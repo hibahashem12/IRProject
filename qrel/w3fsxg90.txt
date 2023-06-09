@@ -1,0 +1,6 @@
+Q11 w3fsxg90 1
+Q22 w3fsxg90 0
+Q23 w3fsxg90 2
+Q24 w3fsxg90 2
+Q25 w3fsxg90 2
+Q30 w3fsxg90 0

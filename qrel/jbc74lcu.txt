@@ -1,0 +1,9 @@
+Q3 jbc74lcu 0
+Q5 jbc74lcu 2
+Q6 jbc74lcu 0
+Q7 jbc74lcu 0
+Q19 jbc74lcu 0
+Q28 jbc74lcu 2
+Q29 jbc74lcu 2
+Q30 jbc74lcu 0
+Q32 jbc74lcu 0

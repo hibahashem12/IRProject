@@ -1,0 +1,6 @@
+Q8 05m50voc 2
+Q21 05m50voc 2
+Q22 05m50voc 0
+Q25 05m50voc 0
+Q26 05m50voc 0
+Q27 05m50voc 1

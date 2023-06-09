@@ -1,0 +1,4 @@
+Q14 1nobazeo 0
+Q15 1nobazeo 0
+Q18 1nobazeo 0
+Q44 1nobazeo 1

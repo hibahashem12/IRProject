@@ -1,0 +1,4 @@
+Q3 0o05oskr 1
+Q15 0o05oskr 0
+Q33 0o05oskr 2
+Q50 0o05oskr 1

@@ -1,0 +1,4 @@
+Q13 xsqgrd5l 1
+Q16 xsqgrd5l 0
+Q26 xsqgrd5l 0
+Q27 xsqgrd5l 1

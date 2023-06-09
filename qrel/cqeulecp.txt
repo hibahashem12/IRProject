@@ -1,0 +1,4 @@
+Q1 cqeulecp 1
+Q2 cqeulecp 0
+Q4 cqeulecp 1
+Q39 cqeulecp 2

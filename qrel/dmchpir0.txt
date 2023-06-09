@@ -1,0 +1,3 @@
+Q29 dmchpir0 2
+Q36 dmchpir0 0
+Q50 dmchpir0 0

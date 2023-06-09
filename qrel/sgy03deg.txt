@@ -1,0 +1,4 @@
+Q5 sgy03deg 0
+Q6 sgy03deg 2
+Q35 sgy03deg 0
+Q42 sgy03deg 0

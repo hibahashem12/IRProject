@@ -1,0 +1,9 @@
+Q2 ax9btc74 0
+Q3 ax9btc74 1
+Q6 ax9btc74 2
+Q7 ax9btc74 2
+Q8 ax9btc74 1
+Q11 ax9btc74 0
+Q32 ax9btc74 0
+Q33 ax9btc74 0
+Q35 ax9btc74 0

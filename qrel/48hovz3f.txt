@@ -1,0 +1,6 @@
+Q4 48hovz3f 0
+Q8 48hovz3f 0
+Q12 48hovz3f 1
+Q13 48hovz3f 1
+Q14 48hovz3f 0
+Q15 48hovz3f 2

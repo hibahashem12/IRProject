@@ -1,0 +1,4 @@
+Q2 cv32u0ox 0
+Q3 cv32u0ox 1
+Q21 cv32u0ox 0
+Q34 cv32u0ox 0

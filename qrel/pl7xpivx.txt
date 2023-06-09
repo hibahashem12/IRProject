@@ -1,0 +1,4 @@
+Q11 pl7xpivx 1
+Q13 pl7xpivx 0
+Q27 pl7xpivx 0
+Q35 pl7xpivx 0

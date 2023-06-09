@@ -1,0 +1,3 @@
+Q12 1vcc1khg 0
+Q18 1vcc1khg 2
+Q44 1vcc1khg 2

@@ -1,0 +1,9 @@
+Q4 qg2o0ug4 2
+Q6 qg2o0ug4 2
+Q11 qg2o0ug4 0
+Q15 qg2o0ug4 0
+Q16 qg2o0ug4 0
+Q23 qg2o0ug4 2
+Q24 qg2o0ug4 1
+Q25 qg2o0ug4 2
+Q34 qg2o0ug4 0

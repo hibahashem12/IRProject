@@ -1,0 +1,5 @@
+Q2 g04lgor0 0
+Q4 g04lgor0 0
+Q13 g04lgor0 1
+Q15 g04lgor0 1
+Q22 g04lgor0 0

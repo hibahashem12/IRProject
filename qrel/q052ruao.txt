@@ -1,0 +1,6 @@
+Q11 q052ruao 0
+Q12 q052ruao 0
+Q13 q052ruao 1
+Q15 q052ruao 2
+Q16 q052ruao 1
+Q44 q052ruao 1

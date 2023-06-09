@@ -1,0 +1,6 @@
+Q11 xwaycskl 0
+Q20 xwaycskl 2
+Q21 xwaycskl 0
+Q23 xwaycskl 2
+Q30 xwaycskl 0
+Q38 xwaycskl 1

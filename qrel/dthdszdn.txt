@@ -1,0 +1,8 @@
+Q20 dthdszdn 1
+Q22 dthdszdn 2
+Q23 dthdszdn 0
+Q24 dthdszdn 0
+Q25 dthdszdn 0
+Q26 dthdszdn 1
+Q38 dthdszdn 0
+Q39 dthdszdn 2

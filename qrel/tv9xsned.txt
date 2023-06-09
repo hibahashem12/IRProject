@@ -1,0 +1,8 @@
+Q4 tv9xsned 1
+Q6 tv9xsned 0
+Q11 tv9xsned 1
+Q21 tv9xsned 1
+Q25 tv9xsned 2
+Q26 tv9xsned 0
+Q38 tv9xsned 1
+Q39 tv9xsned 1

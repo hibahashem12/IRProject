@@ -1,0 +1,8 @@
+Q17 p36zubnf 1
+Q26 p36zubnf 0
+Q28 p36zubnf 2
+Q29 p36zubnf 1
+Q30 p36zubnf 1
+Q33 p36zubnf 2
+Q38 p36zubnf 1
+Q50 p36zubnf 1

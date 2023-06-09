@@ -1,0 +1,17 @@
+Q1 l5ogbl5p 0
+Q3 l5ogbl5p 0
+Q4 l5ogbl5p 0
+Q6 l5ogbl5p 0
+Q7 l5ogbl5p 0
+Q10 l5ogbl5p 1
+Q11 l5ogbl5p 0
+Q12 l5ogbl5p 2
+Q15 l5ogbl5p 0
+Q16 l5ogbl5p 0
+Q19 l5ogbl5p 1
+Q20 l5ogbl5p 0
+Q26 l5ogbl5p 0
+Q27 l5ogbl5p 0
+Q29 l5ogbl5p 0
+Q32 l5ogbl5p 0
+Q34 l5ogbl5p 0

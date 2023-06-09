@@ -1,0 +1,8 @@
+Q1 snp8o9fw 0
+Q3 snp8o9fw 1
+Q7 snp8o9fw 0
+Q14 snp8o9fw 0
+Q31 snp8o9fw 2
+Q32 snp8o9fw 0
+Q35 snp8o9fw 0
+Q49 snp8o9fw 0

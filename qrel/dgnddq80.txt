@@ -1,0 +1,4 @@
+Q5 dgnddq80 2
+Q13 dgnddq80 0
+Q28 dgnddq80 2
+Q29 dgnddq80 1

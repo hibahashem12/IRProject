@@ -1,0 +1,5 @@
+Q9 1i5arpf8 0
+Q11 1i5arpf8 1
+Q12 1i5arpf8 2
+Q26 1i5arpf8 0
+Q30 1i5arpf8 0

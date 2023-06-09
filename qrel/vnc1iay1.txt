@@ -1,0 +1,4 @@
+Q10 vnc1iay1 2
+Q18 vnc1iay1 1
+Q35 vnc1iay1 2
+Q44 vnc1iay1 0

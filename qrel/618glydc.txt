@@ -1,0 +1,3 @@
+Q3 618glydc 1
+Q6 618glydc 0
+Q33 618glydc 0

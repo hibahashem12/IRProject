@@ -1,0 +1,4 @@
+Q25 fcgcittn 2
+Q26 fcgcittn 0
+Q34 fcgcittn 0
+Q38 fcgcittn 0

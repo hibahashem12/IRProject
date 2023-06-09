@@ -1,0 +1,3 @@
+Q8 sg66xcif 1
+Q15 sg66xcif 0
+Q27 sg66xcif 1

@@ -1,0 +1,4 @@
+Q1 5pv11lfo 1
+Q31 5pv11lfo 0
+Q32 5pv11lfo 2
+Q37 5pv11lfo 0

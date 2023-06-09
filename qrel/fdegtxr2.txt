@@ -1,0 +1,4 @@
+Q18 fdegtxr2 1
+Q27 fdegtxr2 1
+Q31 fdegtxr2 0
+Q44 fdegtxr2 0

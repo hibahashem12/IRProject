@@ -1,0 +1,8 @@
+Q2 q3abp9o7 2
+Q4 q3abp9o7 0
+Q8 q3abp9o7 0
+Q14 q3abp9o7 0
+Q15 q3abp9o7 1
+Q16 q3abp9o7 1
+Q31 q3abp9o7 0
+Q35 q3abp9o7 0

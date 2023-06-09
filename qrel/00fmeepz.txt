@@ -1,0 +1,4 @@
+Q1 00fmeepz 1
+Q13 00fmeepz 1
+Q14 00fmeepz 0
+Q31 00fmeepz 2

@@ -1,0 +1,4 @@
+Q12 bvp0oo3n 1
+Q15 bvp0oo3n 1
+Q31 bvp0oo3n 2
+Q42 bvp0oo3n 0

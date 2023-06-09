@@ -1,0 +1,9 @@
+Q1 fqs40ivc 1
+Q4 fqs40ivc 0
+Q13 fqs40ivc 1
+Q15 fqs40ivc 0
+Q19 fqs40ivc 0
+Q27 fqs40ivc 1
+Q30 fqs40ivc 0
+Q34 fqs40ivc 0
+Q35 fqs40ivc 0

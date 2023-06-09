@@ -1,0 +1,13 @@
+Q1 pyeb86on 1
+Q4 pyeb86on 0
+Q6 pyeb86on 1
+Q9 pyeb86on 0
+Q12 pyeb86on 0
+Q14 pyeb86on 0
+Q15 pyeb86on 0
+Q19 pyeb86on 0
+Q23 pyeb86on 0
+Q24 pyeb86on 0
+Q26 pyeb86on 2
+Q27 pyeb86on 0
+Q32 pyeb86on 0

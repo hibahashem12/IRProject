@@ -1,0 +1,9 @@
+Q2 xcacty89 2
+Q4 xcacty89 0
+Q8 xcacty89 1
+Q10 xcacty89 1
+Q12 xcacty89 0
+Q13 xcacty89 1
+Q15 xcacty89 0
+Q21 xcacty89 2
+Q31 xcacty89 0

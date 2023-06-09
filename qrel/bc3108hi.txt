@@ -1,0 +1,7 @@
+Q2 bc3108hi 0
+Q3 bc3108hi 2
+Q7 bc3108hi 2
+Q25 bc3108hi 0
+Q32 bc3108hi 0
+Q36 bc3108hi 2
+Q37 bc3108hi 0

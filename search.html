@@ -1,0 +1,70 @@
+{% extends 'bootstrap/base.html' %}
+
+{% block content %}
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 mx-auto">
+        <div class="position-relative" style="width: 100%; height: 500px;">
+          <img src="https://keywordtool.io/images/svg/undraw_web_search_eetr.svg" alt="Web search" class="position-absolute top-50 start-50 translate-middle" style="width: 500px; height: 500px; max-width: 100%; max-height: 100%;">
+        </div>
+      </div>
+      <div class="col-md-6 mx-auto">
+        <h1 class="text-center">Search</h1>
+        <form method="post" id="dataset-form">
+          <div class="form-group">
+            <select class="form-control" name="option" id="select">
+              <option value="" disabled selected>Select a dataset</option>
+              <option value="dataset1">Dataset 1</option>
+              <option value="dataset2">Dataset 2</option>
+            </select>
+          </div>
+        </form>
+        <form method="post" action="{{ url_for('search') }}" id="search-form">
+          <div class="form-group">
+            <input type="text" class="form-control" name="query" placeholder="Search..." id="search_query">
+          </div>
+          <div class="form-group text-center">
+              <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+            <input type="hidden" name="option" id="hidden-option">
+<input id="clickMe" type="button" value="clickme" onclick="ajaxCall(document.getElementById('search_query').value)" /> </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+<script>
+    const datasetForm = document.getElementById('dataset-form');
+    const select = document.getElementById('dataset-select');
+    const searchForm = document.getElementById('search-form');
+    const hiddenOption = document.getElementById('hidden-option');
+    function ajaxCall(searchQuery)
+    {
+    console.log(searchQuery)
+    $.ajax({
+    url: 'http://127.0.0.1:5000/searchresult/?userquery=' + searchQuery,
+     type: "GET",
+    dataType: "json",
+    success: function (data) {
+        console.log(data);
+<!--       var content = data.data;-->
+<!--      console.log(content);-->
+
+    }
+});
+}
+
+$("#select").change(function () {
+
+  console.log($(this).val());
+      $.ajax({
+url: 'http://127.0.0.1:5000/selectDataset/?selectedOption=' + $(this).val(),
+    type: "GET",
+    dataType: "json",
+    success: function (data) {
+        console.log(data);
+    }
+});
+});
+
+</script>
+{% endblock %}

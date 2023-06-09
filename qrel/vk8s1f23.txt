@@ -1,0 +1,4 @@
+Q32 vk8s1f23 2
+Q36 vk8s1f23 0
+Q37 vk8s1f23 1
+Q40 vk8s1f23 1

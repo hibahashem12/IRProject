@@ -1,0 +1,5 @@
+Q9 3ateeei3 0
+Q13 3ateeei3 1
+Q15 3ateeei3 0
+Q17 3ateeei3 1
+Q33 3ateeei3 2

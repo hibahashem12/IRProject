@@ -1,0 +1,7 @@
+Q1 m40kwgcg 0
+Q11 m40kwgcg 0
+Q21 m40kwgcg 2
+Q23 m40kwgcg 1
+Q24 m40kwgcg 0
+Q25 m40kwgcg 1
+Q32 m40kwgcg 0

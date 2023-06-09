@@ -1,0 +1,4 @@
+Q16 astxi4el 0
+Q17 astxi4el 0
+Q18 astxi4el 1
+Q31 astxi4el 0

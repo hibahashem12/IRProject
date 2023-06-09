@@ -1,0 +1,6 @@
+Q4 ubqexcof 0
+Q11 ubqexcof 2
+Q21 ubqexcof 2
+Q22 ubqexcof 0
+Q23 ubqexcof 2
+Q24 ubqexcof 1

@@ -1,0 +1,4 @@
+Q9 ch6prsf3 0
+Q31 ch6prsf3 2
+Q41 ch6prsf3 1
+Q47 ch6prsf3 0

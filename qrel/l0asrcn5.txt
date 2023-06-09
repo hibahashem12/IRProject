@@ -1,0 +1,8 @@
+Q3 l0asrcn5 0
+Q15 l0asrcn5 0
+Q21 l0asrcn5 0
+Q22 l0asrcn5 1
+Q23 l0asrcn5 0
+Q24 l0asrcn5 1
+Q27 l0asrcn5 0
+Q35 l0asrcn5 0

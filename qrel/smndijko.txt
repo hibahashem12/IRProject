@@ -1,0 +1,7 @@
+Q10 smndijko 1
+Q12 smndijko 0
+Q18 smndijko 1
+Q19 smndijko 0
+Q21 smndijko 0
+Q44 smndijko 0
+Q49 smndijko 0

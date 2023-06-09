@@ -1,0 +1,4 @@
+Q14 nop03qyd 0
+Q15 nop03qyd 1
+Q16 nop03qyd 1
+Q19 nop03qyd 0

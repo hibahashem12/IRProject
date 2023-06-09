@@ -1,0 +1,4 @@
+Q10 14x4uqq7 1
+Q18 14x4uqq7 1
+Q19 14x4uqq7 0
+Q44 14x4uqq7 2

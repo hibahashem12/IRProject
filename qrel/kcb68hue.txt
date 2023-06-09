@@ -1,0 +1,6 @@
+Q8 kcb68hue 0
+Q10 kcb68hue 1
+Q12 kcb68hue 1
+Q13 kcb68hue 0
+Q15 kcb68hue 0
+Q18 kcb68hue 0

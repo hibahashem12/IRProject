@@ -1,0 +1,6 @@
+Q14 f33eb1nf 0
+Q17 f33eb1nf 1
+Q26 f33eb1nf 0
+Q28 f33eb1nf 2
+Q30 f33eb1nf 0
+Q46 f33eb1nf 1

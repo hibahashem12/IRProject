@@ -1,0 +1,5 @@
+Q9 ndk9atoa 2
+Q17 ndk9atoa 2
+Q25 ndk9atoa 0
+Q34 ndk9atoa 0
+Q35 ndk9atoa 0

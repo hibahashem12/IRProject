@@ -1,0 +1,6 @@
+Q1 pkxc2219 0
+Q3 pkxc2219 2
+Q5 pkxc2219 0
+Q32 pkxc2219 0
+Q36 pkxc2219 2
+Q37 pkxc2219 1

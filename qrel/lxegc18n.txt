@@ -1,0 +1,12 @@
+Q6 lxegc18n 1
+Q8 lxegc18n 0
+Q10 lxegc18n 0
+Q12 lxegc18n 2
+Q13 lxegc18n 1
+Q15 lxegc18n 1
+Q16 lxegc18n 1
+Q18 lxegc18n 0
+Q19 lxegc18n 0
+Q21 lxegc18n 0
+Q22 lxegc18n 0
+Q27 lxegc18n 0

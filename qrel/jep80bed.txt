@@ -1,0 +1,9 @@
+Q1 jep80bed 1
+Q3 jep80bed 0
+Q7 jep80bed 0
+Q11 jep80bed 0
+Q15 jep80bed 0
+Q22 jep80bed 0
+Q31 jep80bed 0
+Q34 jep80bed 0
+Q36 jep80bed 0

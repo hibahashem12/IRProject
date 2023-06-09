@@ -1,0 +1,7 @@
+Q1 a66sszp2 1
+Q8 a66sszp2 0
+Q11 a66sszp2 0
+Q22 a66sszp2 0
+Q26 a66sszp2 0
+Q28 a66sszp2 0
+Q30 a66sszp2 1

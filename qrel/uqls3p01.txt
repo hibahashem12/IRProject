@@ -1,0 +1,4 @@
+Q1 uqls3p01 2
+Q25 uqls3p01 0
+Q35 uqls3p01 0
+Q37 uqls3p01 1

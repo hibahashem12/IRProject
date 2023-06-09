@@ -1,0 +1,4 @@
+Q3 bmsmegbs 0
+Q18 bmsmegbs 0
+Q26 bmsmegbs 0
+Q27 bmsmegbs 2

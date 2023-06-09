@@ -1,0 +1,6 @@
+Q5 ncl2p7kg 0
+Q30 ncl2p7kg 0
+Q32 ncl2p7kg 0
+Q36 ncl2p7kg 1
+Q37 ncl2p7kg 2
+Q38 ncl2p7kg 2

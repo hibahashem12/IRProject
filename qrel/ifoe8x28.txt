@@ -1,0 +1,12 @@
+Q1 ifoe8x28 1
+Q5 ifoe8x28 1
+Q13 ifoe8x28 1
+Q15 ifoe8x28 2
+Q16 ifoe8x28 1
+Q19 ifoe8x28 0
+Q21 ifoe8x28 0
+Q25 ifoe8x28 0
+Q27 ifoe8x28 1
+Q32 ifoe8x28 0
+Q35 ifoe8x28 0
+Q50 ifoe8x28 1

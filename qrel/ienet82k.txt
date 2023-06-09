@@ -1,0 +1,11 @@
+Q1 ienet82k 0
+Q4 ienet82k 0
+Q7 ienet82k 0
+Q9 ienet82k 0
+Q10 ienet82k 0
+Q12 ienet82k 0
+Q13 ienet82k 1
+Q16 ienet82k 0
+Q17 ienet82k 2
+Q31 ienet82k 0
+Q34 ienet82k 0

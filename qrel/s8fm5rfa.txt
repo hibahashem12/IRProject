@@ -1,0 +1,6 @@
+Q13 s8fm5rfa 2
+Q14 s8fm5rfa 0
+Q15 s8fm5rfa 2
+Q16 s8fm5rfa 2
+Q18 s8fm5rfa 0
+Q44 s8fm5rfa 2

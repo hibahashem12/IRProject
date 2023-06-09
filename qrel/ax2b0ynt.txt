@@ -1,0 +1,9 @@
+Q1 ax2b0ynt 0
+Q4 ax2b0ynt 2
+Q6 ax2b0ynt 1
+Q11 ax2b0ynt 0
+Q18 ax2b0ynt 2
+Q19 ax2b0ynt 0
+Q23 ax2b0ynt 0
+Q24 ax2b0ynt 0
+Q26 ax2b0ynt 0

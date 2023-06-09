@@ -1,0 +1,4 @@
+Q15 txssq1p1 0
+Q25 txssq1p1 0
+Q26 txssq1p1 2
+Q47 txssq1p1 2

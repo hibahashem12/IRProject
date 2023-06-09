@@ -1,0 +1,4 @@
+Q19 jnp2ldcj 0
+Q20 jnp2ldcj 2
+Q23 jnp2ldcj 1
+Q24 jnp2ldcj 0

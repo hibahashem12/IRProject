@@ -1,0 +1,15 @@
+Q1 ycrrsr5c 0
+Q2 ycrrsr5c 2
+Q4 ycrrsr5c 0
+Q7 ycrrsr5c 0
+Q9 ycrrsr5c 0
+Q13 ycrrsr5c 2
+Q14 ycrrsr5c 0
+Q15 ycrrsr5c 2
+Q16 ycrrsr5c 1
+Q17 ycrrsr5c 0
+Q19 ycrrsr5c 0
+Q21 ycrrsr5c 1
+Q22 ycrrsr5c 0
+Q28 ycrrsr5c 0
+Q34 ycrrsr5c 0

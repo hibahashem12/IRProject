@@ -1,0 +1,3 @@
+Q8 idg60ids 0
+Q9 idg60ids 2
+Q26 idg60ids 2

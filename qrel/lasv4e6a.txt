@@ -1,0 +1,12 @@
+Q1 lasv4e6a 2
+Q3 lasv4e6a 0
+Q12 lasv4e6a 2
+Q13 lasv4e6a 2
+Q14 lasv4e6a 0
+Q15 lasv4e6a 1
+Q16 lasv4e6a 1
+Q18 lasv4e6a 1
+Q19 lasv4e6a 0
+Q25 lasv4e6a 0
+Q27 lasv4e6a 0
+Q31 lasv4e6a 0

@@ -1,0 +1,3 @@
+Q16 wptc95qb 0
+Q36 wptc95qb 2
+Q50 wptc95qb 2

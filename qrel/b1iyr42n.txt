@@ -1,0 +1,10 @@
+Q1 b1iyr42n 1
+Q2 b1iyr42n 0
+Q8 b1iyr42n 0
+Q9 b1iyr42n 0
+Q15 b1iyr42n 0
+Q25 b1iyr42n 0
+Q31 b1iyr42n 0
+Q33 b1iyr42n 1
+Q36 b1iyr42n 2
+Q37 b1iyr42n 2

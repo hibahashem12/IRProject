@@ -1,0 +1,8 @@
+Q4 1obd7mq8 0
+Q8 1obd7mq8 1
+Q10 1obd7mq8 2
+Q13 1obd7mq8 1
+Q14 1obd7mq8 1
+Q15 1obd7mq8 0
+Q34 1obd7mq8 0
+Q44 1obd7mq8 2

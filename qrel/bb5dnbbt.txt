@@ -1,0 +1,4 @@
+Q3 bb5dnbbt 1
+Q17 bb5dnbbt 1
+Q33 bb5dnbbt 0
+Q50 bb5dnbbt 0

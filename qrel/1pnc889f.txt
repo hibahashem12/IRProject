@@ -1,0 +1,4 @@
+Q1 1pnc889f 0
+Q13 1pnc889f 1
+Q14 1pnc889f 0
+Q27 1pnc889f 2

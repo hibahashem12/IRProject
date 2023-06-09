@@ -1,0 +1,3 @@
+Q32 tutit2bc 0
+Q37 tutit2bc 1
+Q40 tutit2bc 2

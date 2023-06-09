@@ -1,0 +1,9 @@
+Q4 t6rtncg9 0
+Q12 t6rtncg9 1
+Q13 t6rtncg9 1
+Q14 t6rtncg9 0
+Q26 t6rtncg9 0
+Q27 t6rtncg9 1
+Q31 t6rtncg9 0
+Q34 t6rtncg9 0
+Q35 t6rtncg9 0

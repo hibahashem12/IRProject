@@ -1,0 +1,6 @@
+Q11 gag50cmf 0
+Q13 gag50cmf 0
+Q15 gag50cmf 0
+Q26 gag50cmf 2
+Q27 gag50cmf 0
+Q34 gag50cmf 0

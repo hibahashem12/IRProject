@@ -1,0 +1,16 @@
+Q1 mvdq6fw0 0
+Q3 mvdq6fw0 0
+Q4 mvdq6fw0 0
+Q9 mvdq6fw0 0
+Q11 mvdq6fw0 0
+Q13 mvdq6fw0 1
+Q15 mvdq6fw0 2
+Q16 mvdq6fw0 1
+Q19 mvdq6fw0 0
+Q20 mvdq6fw0 1
+Q26 mvdq6fw0 2
+Q27 mvdq6fw0 2
+Q28 mvdq6fw0 0
+Q32 mvdq6fw0 0
+Q35 mvdq6fw0 0
+Q38 mvdq6fw0 1

@@ -1,0 +1,6 @@
+Q8 penb65x7 0
+Q9 penb65x7 0
+Q19 penb65x7 0
+Q22 penb65x7 0
+Q25 penb65x7 2
+Q34 penb65x7 2

@@ -1,0 +1,17 @@
+Q2 gtfx5cp4 0
+Q4 gtfx5cp4 0
+Q6 gtfx5cp4 0
+Q7 gtfx5cp4 0
+Q8 gtfx5cp4 1
+Q9 gtfx5cp4 0
+Q10 gtfx5cp4 2
+Q12 gtfx5cp4 1
+Q13 gtfx5cp4 0
+Q14 gtfx5cp4 0
+Q19 gtfx5cp4 0
+Q21 gtfx5cp4 0
+Q26 gtfx5cp4 0
+Q34 gtfx5cp4 0
+Q35 gtfx5cp4 2
+Q41 gtfx5cp4 0
+Q48 gtfx5cp4 1

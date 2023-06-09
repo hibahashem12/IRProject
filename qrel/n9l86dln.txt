@@ -1,0 +1,9 @@
+Q1 n9l86dln 0
+Q2 n9l86dln 0
+Q5 n9l86dln 0
+Q9 n9l86dln 0
+Q10 n9l86dln 0
+Q14 n9l86dln 0
+Q20 n9l86dln 0
+Q21 n9l86dln 1
+Q26 n9l86dln 2

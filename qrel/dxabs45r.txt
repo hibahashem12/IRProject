@@ -1,0 +1,8 @@
+Q5 dxabs45r 0
+Q13 dxabs45r 0
+Q15 dxabs45r 0
+Q16 dxabs45r 0
+Q18 dxabs45r 0
+Q25 dxabs45r 0
+Q29 dxabs45r 1
+Q36 dxabs45r 2

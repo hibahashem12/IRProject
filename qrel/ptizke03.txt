@@ -1,0 +1,12 @@
+Q1 ptizke03 0
+Q2 ptizke03 0
+Q4 ptizke03 0
+Q14 ptizke03 0
+Q15 ptizke03 1
+Q16 ptizke03 0
+Q18 ptizke03 0
+Q19 ptizke03 0
+Q28 ptizke03 1
+Q30 ptizke03 0
+Q31 ptizke03 1
+Q42 ptizke03 0

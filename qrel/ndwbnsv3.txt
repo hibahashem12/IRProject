@@ -1,0 +1,5 @@
+Q4 ndwbnsv3 0
+Q9 ndwbnsv3 0
+Q10 ndwbnsv3 1
+Q12 ndwbnsv3 1
+Q35 ndwbnsv3 0

@@ -1,0 +1,16 @@
+Q1 1ybj2p1n 1
+Q4 1ybj2p1n 0
+Q6 1ybj2p1n 0
+Q8 1ybj2p1n 0
+Q9 1ybj2p1n 1
+Q12 1ybj2p1n 1
+Q13 1ybj2p1n 1
+Q15 1ybj2p1n 2
+Q16 1ybj2p1n 1
+Q18 1ybj2p1n 2
+Q19 1ybj2p1n 0
+Q27 1ybj2p1n 1
+Q31 1ybj2p1n 0
+Q32 1ybj2p1n 0
+Q34 1ybj2p1n 0
+Q46 1ybj2p1n 0

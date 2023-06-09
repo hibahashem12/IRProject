@@ -1,0 +1,4 @@
+Q9 seqv4xxp 0
+Q10 seqv4xxp 0
+Q34 seqv4xxp 0
+Q45 seqv4xxp 1

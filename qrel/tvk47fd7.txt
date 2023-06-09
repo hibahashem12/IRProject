@@ -1,0 +1,8 @@
+Q6 tvk47fd7 0
+Q8 tvk47fd7 0
+Q11 tvk47fd7 0
+Q12 tvk47fd7 2
+Q15 tvk47fd7 1
+Q16 tvk47fd7 2
+Q18 tvk47fd7 1
+Q30 tvk47fd7 0

@@ -1,0 +1,6 @@
+Q1 2te9myos 0
+Q9 2te9myos 2
+Q12 2te9myos 2
+Q19 2te9myos 0
+Q26 2te9myos 2
+Q35 2te9myos 0

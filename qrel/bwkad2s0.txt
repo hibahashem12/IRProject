@@ -1,0 +1,8 @@
+Q4 bwkad2s0 2
+Q5 bwkad2s0 0
+Q8 bwkad2s0 0
+Q20 bwkad2s0 2
+Q22 bwkad2s0 1
+Q23 bwkad2s0 2
+Q34 bwkad2s0 0
+Q46 bwkad2s0 0

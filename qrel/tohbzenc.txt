@@ -1,0 +1,10 @@
+Q1 tohbzenc 0
+Q4 tohbzenc 0
+Q5 tohbzenc 0
+Q7 tohbzenc 0
+Q9 tohbzenc 0
+Q13 tohbzenc 0
+Q16 tohbzenc 0
+Q25 tohbzenc 0
+Q27 tohbzenc 1
+Q31 tohbzenc 0

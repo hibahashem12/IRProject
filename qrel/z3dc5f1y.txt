@@ -1,0 +1,5 @@
+Q10 z3dc5f1y 2
+Q12 z3dc5f1y 0
+Q14 z3dc5f1y 1
+Q16 z3dc5f1y 0
+Q31 z3dc5f1y 2

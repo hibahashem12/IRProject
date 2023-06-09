@@ -1,0 +1,7 @@
+Q4 nsrm0axa 0
+Q11 nsrm0axa 0
+Q21 nsrm0axa 2
+Q22 nsrm0axa 0
+Q24 nsrm0axa 1
+Q25 nsrm0axa 2
+Q26 nsrm0axa 2

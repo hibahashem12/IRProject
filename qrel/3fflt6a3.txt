@@ -1,0 +1,6 @@
+Q2 3fflt6a3 0
+Q3 3fflt6a3 0
+Q6 3fflt6a3 0
+Q9 3fflt6a3 0
+Q10 3fflt6a3 1
+Q14 3fflt6a3 0

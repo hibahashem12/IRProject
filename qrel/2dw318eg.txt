@@ -1,0 +1,7 @@
+Q1 2dw318eg 0
+Q2 2dw318eg 0
+Q4 2dw318eg 0
+Q13 2dw318eg 1
+Q26 2dw318eg 0
+Q27 2dw318eg 1
+Q44 2dw318eg 1

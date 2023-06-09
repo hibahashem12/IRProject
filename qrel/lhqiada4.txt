@@ -1,0 +1,8 @@
+Q19 lhqiada4 0
+Q20 lhqiada4 1
+Q28 lhqiada4 2
+Q30 lhqiada4 0
+Q38 lhqiada4 1
+Q39 lhqiada4 0
+Q42 lhqiada4 0
+Q50 lhqiada4 0

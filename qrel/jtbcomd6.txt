@@ -1,0 +1,8 @@
+Q3 jtbcomd6 0
+Q5 jtbcomd6 0
+Q22 jtbcomd6 0
+Q28 jtbcomd6 1
+Q29 jtbcomd6 2
+Q30 jtbcomd6 0
+Q31 jtbcomd6 0
+Q34 jtbcomd6 0

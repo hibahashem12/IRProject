@@ -1,0 +1,5 @@
+Q5 2cuts3d9 2
+Q17 2cuts3d9 0
+Q28 2cuts3d9 2
+Q29 2cuts3d9 0
+Q30 2cuts3d9 0

@@ -1,0 +1,9 @@
+Q1 4mqxa2nw 0
+Q4 4mqxa2nw 0
+Q6 4mqxa2nw 0
+Q7 4mqxa2nw 0
+Q8 4mqxa2nw 1
+Q9 4mqxa2nw 0
+Q12 4mqxa2nw 1
+Q13 4mqxa2nw 0
+Q27 4mqxa2nw 0

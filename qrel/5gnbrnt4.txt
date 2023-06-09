@@ -1,0 +1,5 @@
+Q8 5gnbrnt4 0
+Q9 5gnbrnt4 0
+Q13 5gnbrnt4 1
+Q14 5gnbrnt4 0
+Q16 5gnbrnt4 0

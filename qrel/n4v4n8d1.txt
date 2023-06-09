@@ -1,0 +1,15 @@
+Q1 n4v4n8d1 1
+Q3 n4v4n8d1 0
+Q4 n4v4n8d1 0
+Q5 n4v4n8d1 0
+Q8 n4v4n8d1 0
+Q9 n4v4n8d1 0
+Q13 n4v4n8d1 1
+Q14 n4v4n8d1 0
+Q16 n4v4n8d1 0
+Q18 n4v4n8d1 0
+Q21 n4v4n8d1 1
+Q22 n4v4n8d1 0
+Q25 n4v4n8d1 0
+Q27 n4v4n8d1 0
+Q35 n4v4n8d1 0

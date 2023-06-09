@@ -1,0 +1,7 @@
+Q6 8rkwmxor 1
+Q8 8rkwmxor 2
+Q11 8rkwmxor 0
+Q16 8rkwmxor 0
+Q26 8rkwmxor 0
+Q27 8rkwmxor 1
+Q35 8rkwmxor 0

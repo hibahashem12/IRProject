@@ -1,0 +1,5 @@
+Q8 hm516x6p 0
+Q11 hm516x6p 0
+Q18 hm516x6p 2
+Q19 hm516x6p 0
+Q27 hm516x6p 1

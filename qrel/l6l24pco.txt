@@ -1,0 +1,7 @@
+Q5 l6l24pco 1
+Q17 l6l24pco 1
+Q28 l6l24pco 2
+Q30 l6l24pco 0
+Q33 l6l24pco 0
+Q38 l6l24pco 1
+Q39 l6l24pco 2

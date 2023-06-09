@@ -1,0 +1,10 @@
+Q1 3e2soc6w 0
+Q12 3e2soc6w 0
+Q13 3e2soc6w 1
+Q14 3e2soc6w 0
+Q15 3e2soc6w 0
+Q25 3e2soc6w 0
+Q26 3e2soc6w 0
+Q31 3e2soc6w 0
+Q43 3e2soc6w 0
+Q44 3e2soc6w 0

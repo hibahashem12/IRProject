@@ -1,0 +1,4 @@
+Q13 b10yokyu 2
+Q14 b10yokyu 1
+Q15 b10yokyu 0
+Q21 b10yokyu 0

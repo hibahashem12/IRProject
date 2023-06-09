@@ -1,0 +1,8 @@
+Q3 pqld0tyy 0
+Q8 pqld0tyy 0
+Q11 pqld0tyy 0
+Q13 pqld0tyy 0
+Q18 pqld0tyy 2
+Q19 pqld0tyy 0
+Q44 pqld0tyy 0
+Q49 pqld0tyy 0

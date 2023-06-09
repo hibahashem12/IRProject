@@ -1,0 +1,6 @@
+Q1 ei89dddm 1
+Q13 ei89dddm 1
+Q16 ei89dddm 1
+Q17 ei89dddm 0
+Q26 ei89dddm 2
+Q30 ei89dddm 0

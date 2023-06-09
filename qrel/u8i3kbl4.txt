@@ -1,0 +1,7 @@
+Q14 u8i3kbl4 0
+Q20 u8i3kbl4 1
+Q22 u8i3kbl4 0
+Q23 u8i3kbl4 0
+Q25 u8i3kbl4 2
+Q27 u8i3kbl4 0
+Q30 u8i3kbl4 0

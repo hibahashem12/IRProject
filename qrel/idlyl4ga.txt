@@ -1,0 +1,6 @@
+Q11 idlyl4ga 0
+Q13 idlyl4ga 2
+Q15 idlyl4ga 2
+Q16 idlyl4ga 1
+Q18 idlyl4ga 2
+Q44 idlyl4ga 1

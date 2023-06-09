@@ -1,0 +1,3 @@
+Q20 0x02bmti 2
+Q23 0x02bmti 2
+Q42 0x02bmti 0

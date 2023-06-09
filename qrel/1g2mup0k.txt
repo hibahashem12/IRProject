@@ -1,0 +1,14 @@
+Q1 1g2mup0k 0
+Q6 1g2mup0k 1
+Q8 1g2mup0k 0
+Q9 1g2mup0k 0
+Q13 1g2mup0k 1
+Q19 1g2mup0k 0
+Q26 1g2mup0k 0
+Q27 1g2mup0k 1
+Q30 1g2mup0k 0
+Q31 1g2mup0k 1
+Q32 1g2mup0k 0
+Q46 1g2mup0k 0
+Q48 1g2mup0k 0
+Q49 1g2mup0k 0

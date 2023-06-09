@@ -1,0 +1,6 @@
+Q10 15rpskir 0
+Q20 15rpskir 1
+Q23 15rpskir 2
+Q24 15rpskir 0
+Q28 15rpskir 0
+Q42 15rpskir 2

@@ -1,0 +1,8 @@
+Q1 b66bb2ri 2
+Q2 b66bb2ri 0
+Q12 b66bb2ri 0
+Q15 b66bb2ri 0
+Q19 b66bb2ri 0
+Q23 b66bb2ri 0
+Q24 b66bb2ri 0
+Q29 b66bb2ri 0

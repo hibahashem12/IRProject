@@ -1,0 +1,6 @@
+Q1 bmwgq7py 2
+Q3 bmwgq7py 0
+Q29 bmwgq7py 1
+Q32 bmwgq7py 0
+Q37 bmwgq7py 2
+Q40 bmwgq7py 1

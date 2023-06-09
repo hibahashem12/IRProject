@@ -1,0 +1,15 @@
+Q1 d6by9p41 2
+Q3 d6by9p41 0
+Q5 d6by9p41 0
+Q6 d6by9p41 1
+Q7 d6by9p41 0
+Q11 d6by9p41 0
+Q13 d6by9p41 1
+Q15 d6by9p41 0
+Q17 d6by9p41 0
+Q20 d6by9p41 1
+Q29 d6by9p41 2
+Q30 d6by9p41 1
+Q32 d6by9p41 1
+Q35 d6by9p41 0
+Q40 d6by9p41 1

@@ -1,0 +1,5 @@
+Q1 tug2t7dm 0
+Q5 tug2t7dm 0
+Q20 tug2t7dm 1
+Q35 tug2t7dm 0
+Q36 tug2t7dm 0

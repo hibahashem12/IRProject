@@ -1,0 +1,7 @@
+Q6 xlrf3dxx 0
+Q9 xlrf3dxx 0
+Q13 xlrf3dxx 2
+Q14 xlrf3dxx 0
+Q18 xlrf3dxx 1
+Q23 xlrf3dxx 0
+Q27 xlrf3dxx 1

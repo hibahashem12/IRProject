@@ -1,0 +1,3 @@
+Q10 jnz5by5w 1
+Q12 jnz5by5w 2
+Q15 jnz5by5w 0

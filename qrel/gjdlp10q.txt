@@ -1,0 +1,5 @@
+Q1 gjdlp10q 1
+Q5 gjdlp10q 0
+Q15 gjdlp10q 2
+Q32 gjdlp10q 0
+Q37 gjdlp10q 0

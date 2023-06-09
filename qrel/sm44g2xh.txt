@@ -1,0 +1,5 @@
+Q4 sm44g2xh 2
+Q22 sm44g2xh 2
+Q23 sm44g2xh 1
+Q26 sm44g2xh 0
+Q34 sm44g2xh 0

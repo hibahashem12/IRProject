@@ -1,0 +1,5 @@
+Q4 tpmgrk14 0
+Q8 tpmgrk14 1
+Q30 tpmgrk14 0
+Q31 tpmgrk14 0
+Q32 tpmgrk14 0

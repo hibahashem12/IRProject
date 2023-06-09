@@ -1,0 +1,11 @@
+Q4 3ueg2i6w 0
+Q8 3ueg2i6w 1
+Q10 3ueg2i6w 1
+Q12 3ueg2i6w 1
+Q13 3ueg2i6w 2
+Q15 3ueg2i6w 2
+Q19 3ueg2i6w 0
+Q26 3ueg2i6w 0
+Q27 3ueg2i6w 0
+Q31 3ueg2i6w 2
+Q44 3ueg2i6w 1

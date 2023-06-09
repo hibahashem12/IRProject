@@ -1,0 +1,4 @@
+Q1 mrg2pomd 0
+Q13 mrg2pomd 1
+Q15 mrg2pomd 0
+Q26 mrg2pomd 0

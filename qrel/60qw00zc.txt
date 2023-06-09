@@ -1,0 +1,9 @@
+Q8 60qw00zc 0
+Q9 60qw00zc 0
+Q10 60qw00zc 0
+Q12 60qw00zc 0
+Q17 60qw00zc 2
+Q22 60qw00zc 0
+Q26 60qw00zc 0
+Q27 60qw00zc 1
+Q28 60qw00zc 2

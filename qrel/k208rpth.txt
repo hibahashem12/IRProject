@@ -1,0 +1,3 @@
+Q10 k208rpth 1
+Q13 k208rpth 0
+Q14 k208rpth 1

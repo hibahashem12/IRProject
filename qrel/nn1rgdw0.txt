@@ -1,0 +1,3 @@
+Q10 nn1rgdw0 0
+Q27 nn1rgdw0 2
+Q31 nn1rgdw0 0

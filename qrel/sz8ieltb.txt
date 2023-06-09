@@ -1,0 +1,5 @@
+Q20 sz8ieltb 1
+Q23 sz8ieltb 2
+Q24 sz8ieltb 0
+Q28 sz8ieltb 1
+Q34 sz8ieltb 0

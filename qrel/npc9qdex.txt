@@ -1,0 +1,3 @@
+Q3 npc9qdex 0
+Q33 npc9qdex 2
+Q50 npc9qdex 0

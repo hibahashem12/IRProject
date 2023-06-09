@@ -1,0 +1,6 @@
+Q2 zxx7tikz 2
+Q3 zxx7tikz 0
+Q16 zxx7tikz 0
+Q31 zxx7tikz 2
+Q32 zxx7tikz 0
+Q49 zxx7tikz 0

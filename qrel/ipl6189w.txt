@@ -1,0 +1,4 @@
+Q1 ipl6189w 0
+Q42 ipl6189w 2
+Q44 ipl6189w 0
+Q47 ipl6189w 2

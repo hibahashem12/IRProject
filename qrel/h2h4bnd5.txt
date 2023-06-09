@@ -1,0 +1,11 @@
+Q1 h2h4bnd5 0
+Q2 h2h4bnd5 0
+Q8 h2h4bnd5 0
+Q12 h2h4bnd5 0
+Q13 h2h4bnd5 2
+Q15 h2h4bnd5 1
+Q16 h2h4bnd5 2
+Q18 h2h4bnd5 2
+Q19 h2h4bnd5 0
+Q27 h2h4bnd5 0
+Q35 h2h4bnd5 0

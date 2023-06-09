@@ -1,0 +1,4 @@
+Q17 70gtvarr 1
+Q31 70gtvarr 0
+Q38 70gtvarr 1
+Q42 70gtvarr 2

@@ -1,0 +1,7 @@
+Q4 igfur3l9 1
+Q11 igfur3l9 0
+Q21 igfur3l9 2
+Q22 igfur3l9 0
+Q23 igfur3l9 0
+Q24 igfur3l9 1
+Q25 igfur3l9 2

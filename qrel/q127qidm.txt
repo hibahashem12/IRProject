@@ -1,0 +1,6 @@
+Q13 q127qidm 0
+Q14 q127qidm 0
+Q15 q127qidm 0
+Q16 q127qidm 1
+Q19 q127qidm 0
+Q46 q127qidm 0

@@ -1,0 +1,13 @@
+Q3 68sbqdi3 1
+Q5 68sbqdi3 2
+Q7 68sbqdi3 0
+Q11 68sbqdi3 0
+Q15 68sbqdi3 0
+Q17 68sbqdi3 1
+Q23 68sbqdi3 0
+Q28 68sbqdi3 0
+Q29 68sbqdi3 2
+Q30 68sbqdi3 2
+Q33 68sbqdi3 1
+Q38 68sbqdi3 1
+Q50 68sbqdi3 0

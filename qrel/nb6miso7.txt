@@ -1,0 +1,4 @@
+Q3 nb6miso7 0
+Q5 nb6miso7 2
+Q33 nb6miso7 2
+Q50 nb6miso7 0

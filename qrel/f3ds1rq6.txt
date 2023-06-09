@@ -1,0 +1,8 @@
+Q1 f3ds1rq6 0
+Q2 f3ds1rq6 1
+Q6 f3ds1rq6 0
+Q8 f3ds1rq6 1
+Q10 f3ds1rq6 0
+Q22 f3ds1rq6 0
+Q26 f3ds1rq6 0
+Q31 f3ds1rq6 2

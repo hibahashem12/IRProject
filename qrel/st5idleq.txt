@@ -1,0 +1,7 @@
+Q1 st5idleq 0
+Q6 st5idleq 2
+Q32 st5idleq 0
+Q35 st5idleq 0
+Q37 st5idleq 1
+Q40 st5idleq 2
+Q45 st5idleq 0

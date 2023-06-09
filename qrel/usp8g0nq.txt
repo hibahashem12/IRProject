@@ -1,0 +1,5 @@
+Q6 usp8g0nq 0
+Q12 usp8g0nq 1
+Q31 usp8g0nq 0
+Q46 usp8g0nq 0
+Q48 usp8g0nq 2

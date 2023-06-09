@@ -1,0 +1,6 @@
+Q4 0agldesf 1
+Q9 0agldesf 0
+Q11 0agldesf 1
+Q21 0agldesf 2
+Q24 0agldesf 0
+Q35 0agldesf 1

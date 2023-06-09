@@ -1,0 +1,3 @@
+Q25 lcsa06gm 1
+Q39 lcsa06gm 1
+Q42 lcsa06gm 0

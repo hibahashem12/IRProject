@@ -1,0 +1,11 @@
+Q1 rtybezro 0
+Q3 rtybezro 0
+Q4 rtybezro 0
+Q6 rtybezro 0
+Q11 rtybezro 0
+Q12 rtybezro 2
+Q15 rtybezro 1
+Q16 rtybezro 0
+Q18 rtybezro 1
+Q19 rtybezro 0
+Q27 rtybezro 0

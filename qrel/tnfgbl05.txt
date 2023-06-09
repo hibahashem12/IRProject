@@ -1,0 +1,5 @@
+Q1 tnfgbl05 0
+Q14 tnfgbl05 2
+Q32 tnfgbl05 0
+Q37 tnfgbl05 2
+Q40 tnfgbl05 2

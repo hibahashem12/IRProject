@@ -1,0 +1,5 @@
+Q12 d13j2pt5 0
+Q14 d13j2pt5 0
+Q27 d13j2pt5 1
+Q31 d13j2pt5 2
+Q48 d13j2pt5 1

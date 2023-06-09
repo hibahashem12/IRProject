@@ -1,0 +1,10 @@
+Q3 ld0vo1rl 1
+Q5 ld0vo1rl 1
+Q7 ld0vo1rl 0
+Q8 ld0vo1rl 0
+Q17 ld0vo1rl 0
+Q19 ld0vo1rl 0
+Q25 ld0vo1rl 0
+Q32 ld0vo1rl 0
+Q33 ld0vo1rl 2
+Q50 ld0vo1rl 0

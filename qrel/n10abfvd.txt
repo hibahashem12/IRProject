@@ -1,0 +1,4 @@
+Q3 n10abfvd 2
+Q8 n10abfvd 2
+Q16 n10abfvd 0
+Q49 n10abfvd 0

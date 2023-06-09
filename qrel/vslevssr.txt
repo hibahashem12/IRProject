@@ -1,0 +1,6 @@
+Q5 vslevssr 1
+Q20 vslevssr 2
+Q25 vslevssr 0
+Q29 vslevssr 1
+Q38 vslevssr 1
+Q49 vslevssr 0

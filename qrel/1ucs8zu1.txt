@@ -1,0 +1,4 @@
+Q13 1ucs8zu1 1
+Q15 1ucs8zu1 0
+Q16 1ucs8zu1 1
+Q19 1ucs8zu1 0

@@ -1,0 +1,4 @@
+Q8 u8goc7io 0
+Q12 u8goc7io 0
+Q15 u8goc7io 0
+Q26 u8goc7io 0

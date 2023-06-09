@@ -1,0 +1,7 @@
+Q1 e2p46wa8 0
+Q5 e2p46wa8 0
+Q10 e2p46wa8 2
+Q12 e2p46wa8 2
+Q26 e2p46wa8 0
+Q27 e2p46wa8 0
+Q44 e2p46wa8 0

@@ -1,0 +1,5 @@
+Q6 wlat2rrl 0
+Q16 wlat2rrl 0
+Q18 wlat2rrl 1
+Q22 wlat2rrl 0
+Q26 wlat2rrl 2

@@ -1,0 +1,7 @@
+Q3 lotyldfd 0
+Q5 lotyldfd 2
+Q8 lotyldfd 0
+Q20 lotyldfd 2
+Q29 lotyldfd 1
+Q32 lotyldfd 1
+Q36 lotyldfd 2

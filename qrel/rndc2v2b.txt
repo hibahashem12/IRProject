@@ -1,0 +1,3 @@
+Q8 rndc2v2b 0
+Q12 rndc2v2b 0
+Q35 rndc2v2b 2

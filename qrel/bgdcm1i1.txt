@@ -1,0 +1,6 @@
+Q1 bgdcm1i1 1
+Q4 bgdcm1i1 0
+Q8 bgdcm1i1 0
+Q32 bgdcm1i1 0
+Q37 bgdcm1i1 0
+Q40 bgdcm1i1 2

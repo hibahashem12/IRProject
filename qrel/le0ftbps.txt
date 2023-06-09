@@ -1,0 +1,5 @@
+Q1 le0ftbps 2
+Q32 le0ftbps 1
+Q36 le0ftbps 2
+Q37 le0ftbps 1
+Q40 le0ftbps 2

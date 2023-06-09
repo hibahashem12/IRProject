@@ -1,0 +1,11 @@
+Q1 0iq9s94n 1
+Q3 0iq9s94n 1
+Q6 0iq9s94n 2
+Q7 0iq9s94n 2
+Q15 0iq9s94n 0
+Q16 0iq9s94n 1
+Q32 0iq9s94n 2
+Q33 0iq9s94n 1
+Q36 0iq9s94n 0
+Q40 0iq9s94n 0
+Q50 0iq9s94n 0

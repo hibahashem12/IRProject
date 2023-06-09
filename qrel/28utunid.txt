@@ -1,0 +1,6 @@
+Q8 28utunid 0
+Q18 28utunid 2
+Q27 28utunid 1
+Q41 28utunid 0
+Q44 28utunid 2
+Q48 28utunid 0

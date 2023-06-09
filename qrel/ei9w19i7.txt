@@ -1,0 +1,12 @@
+Q1 ei9w19i7 0
+Q4 ei9w19i7 1
+Q6 ei9w19i7 1
+Q8 ei9w19i7 0
+Q13 ei9w19i7 2
+Q15 ei9w19i7 0
+Q18 ei9w19i7 1
+Q26 ei9w19i7 2
+Q27 ei9w19i7 0
+Q31 ei9w19i7 0
+Q32 ei9w19i7 0
+Q35 ei9w19i7 0

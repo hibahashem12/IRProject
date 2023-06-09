@@ -1,0 +1,16 @@
+Q1 ig0rnbqb 1
+Q2 ig0rnbqb 0
+Q5 ig0rnbqb 0
+Q8 ig0rnbqb 1
+Q10 ig0rnbqb 0
+Q13 ig0rnbqb 1
+Q14 ig0rnbqb 0
+Q19 ig0rnbqb 0
+Q27 ig0rnbqb 1
+Q32 ig0rnbqb 2
+Q35 ig0rnbqb 0
+Q37 ig0rnbqb 1
+Q40 ig0rnbqb 1
+Q43 ig0rnbqb 0
+Q44 ig0rnbqb 0
+Q46 ig0rnbqb 0

@@ -1,0 +1,9 @@
+Q2 y5y4dbm1 0
+Q4 y5y4dbm1 0
+Q13 y5y4dbm1 0
+Q14 y5y4dbm1 0
+Q15 y5y4dbm1 1
+Q16 y5y4dbm1 1
+Q19 y5y4dbm1 2
+Q21 y5y4dbm1 0
+Q22 y5y4dbm1 0

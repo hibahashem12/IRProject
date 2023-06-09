@@ -1,0 +1,6 @@
+Q15 qsy2kex1 0
+Q22 qsy2kex1 2
+Q23 qsy2kex1 0
+Q24 qsy2kex1 0
+Q25 qsy2kex1 0
+Q34 qsy2kex1 0

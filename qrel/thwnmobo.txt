@@ -1,0 +1,4 @@
+Q32 thwnmobo 1
+Q37 thwnmobo 0
+Q40 thwnmobo 2
+Q50 thwnmobo 0

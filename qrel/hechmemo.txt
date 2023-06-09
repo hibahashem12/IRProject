@@ -1,0 +1,3 @@
+Q3 hechmemo 1
+Q4 hechmemo 0
+Q40 hechmemo 1

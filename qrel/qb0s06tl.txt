@@ -1,0 +1,6 @@
+Q11 qb0s06tl 0
+Q35 qb0s06tl 2
+Q38 qb0s06tl 0
+Q39 qb0s06tl 1
+Q41 qb0s06tl 0
+Q47 qb0s06tl 0

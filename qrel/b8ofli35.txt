@@ -1,0 +1,11 @@
+Q1 b8ofli35 0
+Q4 b8ofli35 0
+Q6 b8ofli35 1
+Q8 b8ofli35 0
+Q13 b8ofli35 1
+Q18 b8ofli35 0
+Q19 b8ofli35 0
+Q26 b8ofli35 2
+Q27 b8ofli35 0
+Q30 b8ofli35 0
+Q31 b8ofli35 1

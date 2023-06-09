@@ -1,0 +1,9 @@
+Q3 b3ui95vx 0
+Q5 b3ui95vx 1
+Q14 b3ui95vx 0
+Q17 b3ui95vx 1
+Q22 b3ui95vx 0
+Q23 b3ui95vx 0
+Q24 b3ui95vx 0
+Q38 b3ui95vx 1
+Q39 b3ui95vx 2

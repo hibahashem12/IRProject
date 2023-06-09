@@ -1,0 +1,7 @@
+Q4 2q6qmex3 1
+Q5 2q6qmex3 0
+Q21 2q6qmex3 2
+Q23 2q6qmex3 0
+Q24 2q6qmex3 0
+Q25 2q6qmex3 0
+Q34 2q6qmex3 0

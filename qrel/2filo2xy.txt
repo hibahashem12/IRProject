@@ -1,0 +1,4 @@
+Q13 2filo2xy 1
+Q15 2filo2xy 2
+Q16 2filo2xy 2
+Q19 2filo2xy 0

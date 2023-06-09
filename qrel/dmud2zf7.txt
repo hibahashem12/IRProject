@@ -1,0 +1,8 @@
+Q3 dmud2zf7 0
+Q4 dmud2zf7 1
+Q11 dmud2zf7 1
+Q14 dmud2zf7 0
+Q22 dmud2zf7 0
+Q24 dmud2zf7 1
+Q25 dmud2zf7 2
+Q26 dmud2zf7 2

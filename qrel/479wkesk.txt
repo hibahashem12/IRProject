@@ -1,0 +1,6 @@
+Q1 479wkesk 0
+Q15 479wkesk 0
+Q30 479wkesk 0
+Q34 479wkesk 0
+Q42 479wkesk 1
+Q46 479wkesk 0

@@ -1,0 +1,6 @@
+Q1 m3nqa321 0
+Q8 m3nqa321 0
+Q12 m3nqa321 1
+Q13 m3nqa321 0
+Q18 m3nqa321 0
+Q27 m3nqa321 0

@@ -1,0 +1,4 @@
+Q8 bwmpamea 1
+Q10 bwmpamea 1
+Q12 bwmpamea 2
+Q14 bwmpamea 1

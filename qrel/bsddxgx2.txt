@@ -1,0 +1,4 @@
+Q17 bsddxgx2 2
+Q20 bsddxgx2 0
+Q28 bsddxgx2 0
+Q30 bsddxgx2 2

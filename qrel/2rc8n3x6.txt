@@ -1,0 +1,4 @@
+Q4 2rc8n3x6 1
+Q6 2rc8n3x6 2
+Q8 2rc8n3x6 2
+Q15 2rc8n3x6 0

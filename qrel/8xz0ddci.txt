@@ -1,0 +1,12 @@
+Q1 8xz0ddci 2
+Q3 8xz0ddci 0
+Q5 8xz0ddci 0
+Q13 8xz0ddci 1
+Q15 8xz0ddci 0
+Q16 8xz0ddci 0
+Q20 8xz0ddci 0
+Q21 8xz0ddci 1
+Q25 8xz0ddci 1
+Q29 8xz0ddci 1
+Q30 8xz0ddci 2
+Q35 8xz0ddci 0

@@ -1,0 +1,4 @@
+Q2 ftt8memq 0
+Q16 ftt8memq 0
+Q26 ftt8memq 0
+Q33 ftt8memq 0

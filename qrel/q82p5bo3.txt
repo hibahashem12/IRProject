@@ -1,0 +1,4 @@
+Q38 q82p5bo3 1
+Q39 q82p5bo3 0
+Q42 q82p5bo3 0
+Q46 q82p5bo3 1

@@ -1,0 +1,4 @@
+Q17 wmpjfc02 1
+Q19 wmpjfc02 0
+Q28 wmpjfc02 2
+Q46 wmpjfc02 0

@@ -1,0 +1,10 @@
+Q1 ys6s9rps 0
+Q6 ys6s9rps 0
+Q8 ys6s9rps 0
+Q9 ys6s9rps 0
+Q11 ys6s9rps 0
+Q18 ys6s9rps 1
+Q24 ys6s9rps 0
+Q26 ys6s9rps 2
+Q27 ys6s9rps 1
+Q44 ys6s9rps 0

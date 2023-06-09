@@ -1,0 +1,9 @@
+Q1 jujrazsr 1
+Q2 jujrazsr 0
+Q3 jujrazsr 0
+Q15 jujrazsr 0
+Q16 jujrazsr 0
+Q32 jujrazsr 0
+Q36 jujrazsr 1
+Q37 jujrazsr 0
+Q40 jujrazsr 2

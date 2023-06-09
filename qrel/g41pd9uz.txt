@@ -1,0 +1,6 @@
+Q3 g41pd9uz 0
+Q20 g41pd9uz 0
+Q25 g41pd9uz 2
+Q26 g41pd9uz 0
+Q38 g41pd9uz 1
+Q39 g41pd9uz 2

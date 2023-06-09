@@ -1,0 +1,4 @@
+Q4 gnaubzah 0
+Q6 gnaubzah 0
+Q9 gnaubzah 1
+Q47 gnaubzah 2

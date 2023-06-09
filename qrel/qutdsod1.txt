@@ -1,0 +1,4 @@
+Q1 qutdsod1 2
+Q5 qutdsod1 0
+Q13 qutdsod1 2
+Q49 qutdsod1 0

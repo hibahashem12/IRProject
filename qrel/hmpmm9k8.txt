@@ -1,0 +1,5 @@
+Q5 hmpmm9k8 0
+Q20 hmpmm9k8 1
+Q22 hmpmm9k8 0
+Q34 hmpmm9k8 0
+Q38 hmpmm9k8 2

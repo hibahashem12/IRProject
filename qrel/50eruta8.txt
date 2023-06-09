@@ -1,0 +1,5 @@
+Q4 50eruta8 0
+Q12 50eruta8 2
+Q13 50eruta8 1
+Q43 50eruta8 1
+Q45 50eruta8 1

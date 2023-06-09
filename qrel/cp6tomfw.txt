@@ -1,0 +1,4 @@
+Q11 cp6tomfw 0
+Q13 cp6tomfw 1
+Q19 cp6tomfw 0
+Q27 cp6tomfw 1

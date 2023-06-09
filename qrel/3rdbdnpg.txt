@@ -1,0 +1,7 @@
+Q9 3rdbdnpg 0
+Q21 3rdbdnpg 1
+Q22 3rdbdnpg 1
+Q23 3rdbdnpg 1
+Q24 3rdbdnpg 0
+Q25 3rdbdnpg 2
+Q34 3rdbdnpg 0

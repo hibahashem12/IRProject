@@ -1,0 +1,9 @@
+Q5 5o9bbspc 0
+Q14 5o9bbspc 0
+Q15 5o9bbspc 0
+Q17 5o9bbspc 2
+Q26 5o9bbspc 1
+Q27 5o9bbspc 1
+Q28 5o9bbspc 2
+Q29 5o9bbspc 0
+Q30 5o9bbspc 0

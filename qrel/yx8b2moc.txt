@@ -1,0 +1,8 @@
+Q8 yx8b2moc 1
+Q9 yx8b2moc 0
+Q15 yx8b2moc 0
+Q21 yx8b2moc 2
+Q23 yx8b2moc 0
+Q24 yx8b2moc 2
+Q25 yx8b2moc 1
+Q26 yx8b2moc 2

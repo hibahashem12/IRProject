@@ -1,0 +1,6 @@
+Q1 dtv7to3l 1
+Q13 dtv7to3l 1
+Q31 dtv7to3l 0
+Q32 dtv7to3l 0
+Q37 dtv7to3l 1
+Q40 dtv7to3l 1

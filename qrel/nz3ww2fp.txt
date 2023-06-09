@@ -1,0 +1,6 @@
+Q4 nz3ww2fp 1
+Q22 nz3ww2fp 2
+Q23 nz3ww2fp 0
+Q24 nz3ww2fp 1
+Q34 nz3ww2fp 0
+Q38 nz3ww2fp 1

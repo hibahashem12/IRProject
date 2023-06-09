@@ -1,0 +1,6 @@
+Q7 4989atst 0
+Q19 4989atst 0
+Q21 4989atst 0
+Q25 4989atst 2
+Q34 4989atst 2
+Q38 4989atst 2

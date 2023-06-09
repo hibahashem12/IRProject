@@ -1,0 +1,9 @@
+Q3 8aezcyf9 1
+Q9 8aezcyf9 0
+Q25 8aezcyf9 1
+Q30 8aezcyf9 0
+Q33 8aezcyf9 0
+Q34 8aezcyf9 0
+Q38 8aezcyf9 2
+Q39 8aezcyf9 2
+Q49 8aezcyf9 2

@@ -1,0 +1,4 @@
+Q18 sf9g9ch2 1
+Q19 sf9g9ch2 0
+Q44 sf9g9ch2 2
+Q48 sf9g9ch2 2

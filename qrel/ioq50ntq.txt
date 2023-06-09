@@ -1,0 +1,4 @@
+Q1 ioq50ntq 0
+Q12 ioq50ntq 2
+Q13 ioq50ntq 0
+Q15 ioq50ntq 0

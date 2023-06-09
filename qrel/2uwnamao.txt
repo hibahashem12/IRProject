@@ -1,0 +1,13 @@
+Q1 2uwnamao 0
+Q2 2uwnamao 0
+Q3 2uwnamao 1
+Q5 2uwnamao 1
+Q7 2uwnamao 0
+Q25 2uwnamao 2
+Q29 2uwnamao 0
+Q33 2uwnamao 2
+Q35 2uwnamao 2
+Q36 2uwnamao 0
+Q37 2uwnamao 0
+Q40 2uwnamao 0
+Q50 2uwnamao 0

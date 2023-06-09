@@ -1,0 +1,5 @@
+Q1 dblrxlt1 1
+Q5 dblrxlt1 0
+Q20 dblrxlt1 1
+Q32 dblrxlt1 0
+Q36 dblrxlt1 2

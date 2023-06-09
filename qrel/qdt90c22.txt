@@ -1,0 +1,6 @@
+Q5 qdt90c22 2
+Q17 qdt90c22 0
+Q20 qdt90c22 0
+Q26 qdt90c22 0
+Q30 qdt90c22 0
+Q37 qdt90c22 0

@@ -1,0 +1,6 @@
+Q2 6qa405sk 0
+Q8 6qa405sk 0
+Q9 6qa405sk 0
+Q21 6qa405sk 0
+Q26 6qa405sk 1
+Q27 6qa405sk 0

@@ -1,0 +1,6 @@
+Q1 t8q99tlq 1
+Q29 t8q99tlq 1
+Q32 t8q99tlq 0
+Q36 t8q99tlq 2
+Q37 t8q99tlq 2
+Q40 t8q99tlq 2

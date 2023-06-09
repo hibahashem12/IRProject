@@ -1,0 +1,2 @@
+Q10 bgn1sctn 0
+Q45 bgn1sctn 2

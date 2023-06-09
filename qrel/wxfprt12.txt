@@ -1,0 +1,4 @@
+Q9 wxfprt12 0
+Q18 wxfprt12 2
+Q19 wxfprt12 0
+Q30 wxfprt12 0

@@ -1,0 +1,14 @@
+Q1 3hmsknon 0
+Q3 3hmsknon 0
+Q9 3hmsknon 0
+Q11 3hmsknon 0
+Q13 3hmsknon 0
+Q17 3hmsknon 0
+Q21 3hmsknon 0
+Q25 3hmsknon 0
+Q27 3hmsknon 0
+Q28 3hmsknon 0
+Q30 3hmsknon 1
+Q33 3hmsknon 1
+Q34 3hmsknon 0
+Q38 3hmsknon 2

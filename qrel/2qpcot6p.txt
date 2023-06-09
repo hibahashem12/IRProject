@@ -1,0 +1,4 @@
+Q18 2qpcot6p 2
+Q19 2qpcot6p 0
+Q33 2qpcot6p 0
+Q44 2qpcot6p 0

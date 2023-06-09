@@ -1,0 +1,6 @@
+Q2 6ne76rh1 0
+Q5 6ne76rh1 1
+Q20 6ne76rh1 1
+Q29 6ne76rh1 1
+Q32 6ne76rh1 0
+Q37 6ne76rh1 1

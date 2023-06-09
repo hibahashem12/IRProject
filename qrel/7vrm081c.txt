@@ -1,0 +1,12 @@
+Q1 7vrm081c 0
+Q3 7vrm081c 1
+Q4 7vrm081c 0
+Q5 7vrm081c 0
+Q7 7vrm081c 0
+Q8 7vrm081c 0
+Q13 7vrm081c 0
+Q15 7vrm081c 0
+Q28 7vrm081c 0
+Q30 7vrm081c 0
+Q33 7vrm081c 2
+Q34 7vrm081c 0

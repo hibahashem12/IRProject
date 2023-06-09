@@ -1,0 +1,8 @@
+Q6 shymfs4i 2
+Q12 shymfs4i 2
+Q14 shymfs4i 0
+Q15 shymfs4i 0
+Q18 shymfs4i 0
+Q19 shymfs4i 0
+Q35 shymfs4i 0
+Q43 shymfs4i 0

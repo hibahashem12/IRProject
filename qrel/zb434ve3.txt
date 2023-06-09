@@ -1,0 +1,8 @@
+Q1 zb434ve3 0
+Q5 zb434ve3 2
+Q13 zb434ve3 0
+Q17 zb434ve3 1
+Q22 zb434ve3 0
+Q28 zb434ve3 0
+Q29 zb434ve3 2
+Q30 zb434ve3 1

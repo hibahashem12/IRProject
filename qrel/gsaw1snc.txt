@@ -1,0 +1,3 @@
+Q1 gsaw1snc 0
+Q11 gsaw1snc 1
+Q13 gsaw1snc 0

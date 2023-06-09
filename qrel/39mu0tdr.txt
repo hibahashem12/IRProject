@@ -1,0 +1,6 @@
+Q17 39mu0tdr 0
+Q26 39mu0tdr 1
+Q28 39mu0tdr 0
+Q33 39mu0tdr 2
+Q34 39mu0tdr 0
+Q38 39mu0tdr 1

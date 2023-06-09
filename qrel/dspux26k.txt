@@ -1,0 +1,4 @@
+Q14 dspux26k 0
+Q15 dspux26k 1
+Q16 dspux26k 2
+Q44 dspux26k 0

@@ -1,0 +1,8 @@
+Q14 smkpp89u 0
+Q20 smkpp89u 1
+Q22 smkpp89u 2
+Q23 smkpp89u 0
+Q25 smkpp89u 0
+Q27 smkpp89u 0
+Q38 smkpp89u 2
+Q39 smkpp89u 1

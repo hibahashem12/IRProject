@@ -1,0 +1,4 @@
+Q3 s2d3q4ob 1
+Q5 s2d3q4ob 0
+Q14 s2d3q4ob 0
+Q27 s2d3q4ob 0

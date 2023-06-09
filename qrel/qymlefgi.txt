@@ -1,0 +1,5 @@
+Q4 qymlefgi 0
+Q9 qymlefgi 0
+Q24 qymlefgi 2
+Q25 qymlefgi 2
+Q34 qymlefgi 0

@@ -1,0 +1,5 @@
+Q3 lmstdmyb 1
+Q16 lmstdmyb 0
+Q33 lmstdmyb 2
+Q36 lmstdmyb 0
+Q50 lmstdmyb 0

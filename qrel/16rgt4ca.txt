@@ -1,0 +1,7 @@
+Q1 16rgt4ca 0
+Q9 16rgt4ca 0
+Q11 16rgt4ca 0
+Q25 16rgt4ca 2
+Q26 16rgt4ca 2
+Q27 16rgt4ca 1
+Q39 16rgt4ca 1

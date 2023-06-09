@@ -1,0 +1,16 @@
+Q1 xuczplaf 1
+Q3 xuczplaf 1
+Q4 xuczplaf 0
+Q5 xuczplaf 0
+Q6 xuczplaf 0
+Q8 xuczplaf 1
+Q9 xuczplaf 0
+Q11 xuczplaf 0
+Q13 xuczplaf 2
+Q14 xuczplaf 0
+Q19 xuczplaf 0
+Q20 xuczplaf 0
+Q26 xuczplaf 2
+Q27 xuczplaf 0
+Q35 xuczplaf 0
+Q38 xuczplaf 1

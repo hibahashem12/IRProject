@@ -1,0 +1,4 @@
+Q15 db5sxoaz 2
+Q16 db5sxoaz 1
+Q27 db5sxoaz 1
+Q31 db5sxoaz 0

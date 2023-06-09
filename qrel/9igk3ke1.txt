@@ -1,0 +1,13 @@
+Q1 9igk3ke1 2
+Q3 9igk3ke1 0
+Q9 9igk3ke1 0
+Q13 9igk3ke1 0
+Q15 9igk3ke1 2
+Q16 9igk3ke1 0
+Q17 9igk3ke1 0
+Q25 9igk3ke1 0
+Q28 9igk3ke1 0
+Q30 9igk3ke1 1
+Q33 9igk3ke1 0
+Q42 9igk3ke1 2
+Q49 9igk3ke1 0

@@ -1,0 +1,3 @@
+Q5 nf2vd6o1 0
+Q11 nf2vd6o1 1
+Q25 nf2vd6o1 1

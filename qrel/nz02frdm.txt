@@ -1,0 +1,11 @@
+Q1 nz02frdm 0
+Q6 nz02frdm 2
+Q8 nz02frdm 0
+Q9 nz02frdm 0
+Q11 nz02frdm 1
+Q15 nz02frdm 0
+Q16 nz02frdm 0
+Q19 nz02frdm 0
+Q21 nz02frdm 0
+Q26 nz02frdm 1
+Q34 nz02frdm 0

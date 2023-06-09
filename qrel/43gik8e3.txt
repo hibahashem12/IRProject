@@ -1,0 +1,6 @@
+Q1 43gik8e3 2
+Q13 43gik8e3 1
+Q15 43gik8e3 0
+Q25 43gik8e3 0
+Q29 43gik8e3 1
+Q50 43gik8e3 0

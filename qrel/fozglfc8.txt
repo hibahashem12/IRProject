@@ -1,0 +1,7 @@
+Q1 fozglfc8 0
+Q15 fozglfc8 0
+Q29 fozglfc8 1
+Q38 fozglfc8 2
+Q39 fozglfc8 2
+Q42 fozglfc8 0
+Q49 fozglfc8 0

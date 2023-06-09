@@ -1,0 +1,16 @@
+Q1 t8s4s0wo 1
+Q2 t8s4s0wo 0
+Q3 t8s4s0wo 0
+Q4 t8s4s0wo 0
+Q5 t8s4s0wo 0
+Q11 t8s4s0wo 0
+Q13 t8s4s0wo 1
+Q14 t8s4s0wo 0
+Q15 t8s4s0wo 0
+Q21 t8s4s0wo 0
+Q23 t8s4s0wo 0
+Q24 t8s4s0wo 0
+Q25 t8s4s0wo 0
+Q31 t8s4s0wo 0
+Q34 t8s4s0wo 0
+Q40 t8s4s0wo 0

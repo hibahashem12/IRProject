@@ -1,0 +1,7 @@
+Q1 gmi1ewc2 0
+Q5 gmi1ewc2 0
+Q8 gmi1ewc2 1
+Q13 gmi1ewc2 1
+Q14 gmi1ewc2 1
+Q15 gmi1ewc2 0
+Q18 gmi1ewc2 0

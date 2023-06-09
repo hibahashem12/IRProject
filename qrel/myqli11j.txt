@@ -1,0 +1,4 @@
+Q8 myqli11j 0
+Q15 myqli11j 0
+Q27 myqli11j 1
+Q30 myqli11j 0

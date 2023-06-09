@@ -1,0 +1,5 @@
+Q4 1gnoo0us 1
+Q13 1gnoo0us 1
+Q20 1gnoo0us 1
+Q21 1gnoo0us 0
+Q23 1gnoo0us 1

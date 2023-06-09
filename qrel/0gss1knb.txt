@@ -1,0 +1,5 @@
+Q26 0gss1knb 1
+Q28 0gss1knb 2
+Q34 0gss1knb 0
+Q38 0gss1knb 1
+Q39 0gss1knb 2

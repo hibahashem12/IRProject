@@ -1,0 +1,4 @@
+Q10 r57blz6d 0
+Q43 r57blz6d 0
+Q45 r57blz6d 1
+Q47 r57blz6d 1

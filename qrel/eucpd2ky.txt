@@ -1,0 +1,4 @@
+Q5 eucpd2ky 1
+Q29 eucpd2ky 0
+Q36 eucpd2ky 0
+Q40 eucpd2ky 0

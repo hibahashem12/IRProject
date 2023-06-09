@@ -1,0 +1,8 @@
+Q1 13jupb26 0
+Q5 13jupb26 2
+Q20 13jupb26 0
+Q25 13jupb26 0
+Q29 13jupb26 1
+Q32 13jupb26 0
+Q33 13jupb26 2
+Q50 13jupb26 0

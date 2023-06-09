@@ -1,0 +1,10 @@
+Q1 nnftb092 0
+Q4 nnftb092 0
+Q5 nnftb092 0
+Q9 nnftb092 0
+Q10 nnftb092 0
+Q11 nnftb092 0
+Q14 nnftb092 0
+Q21 nnftb092 2
+Q26 nnftb092 2
+Q30 nnftb092 0

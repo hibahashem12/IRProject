@@ -1,0 +1,6 @@
+Q4 nnlynjoy 1
+Q5 nnlynjoy 0
+Q21 nnlynjoy 2
+Q22 nnlynjoy 0
+Q25 nnlynjoy 2
+Q30 nnlynjoy 0

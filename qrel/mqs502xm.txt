@@ -1,0 +1,3 @@
+Q6 mqs502xm 2
+Q8 mqs502xm 1
+Q14 mqs502xm 0

@@ -1,0 +1,6 @@
+Q3 hsmhtei5 0
+Q8 hsmhtei5 2
+Q9 hsmhtei5 0
+Q21 hsmhtei5 2
+Q33 hsmhtei5 0
+Q50 hsmhtei5 0

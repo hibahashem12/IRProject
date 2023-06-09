@@ -1,0 +1,8 @@
+Q4 ip9geldg 0
+Q8 ip9geldg 0
+Q9 ip9geldg 0
+Q11 ip9geldg 0
+Q15 ip9geldg 0
+Q21 ip9geldg 2
+Q25 ip9geldg 0
+Q34 ip9geldg 0

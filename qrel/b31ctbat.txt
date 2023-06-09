@@ -1,0 +1,8 @@
+Q3 b31ctbat 0
+Q5 b31ctbat 2
+Q17 b31ctbat 1
+Q20 b31ctbat 0
+Q29 b31ctbat 2
+Q30 b31ctbat 1
+Q36 b31ctbat 2
+Q37 b31ctbat 0

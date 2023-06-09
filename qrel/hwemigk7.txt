@@ -1,0 +1,5 @@
+Q11 hwemigk7 0
+Q17 hwemigk7 1
+Q28 hwemigk7 0
+Q34 hwemigk7 0
+Q46 hwemigk7 1

@@ -1,0 +1,5 @@
+Q5 wynyrumi 0
+Q29 wynyrumi 1
+Q36 wynyrumi 2
+Q37 wynyrumi 0
+Q40 wynyrumi 2

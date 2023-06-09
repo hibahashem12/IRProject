@@ -1,0 +1,9 @@
+Q1 010vptx3 2
+Q6 010vptx3 1
+Q8 010vptx3 1
+Q13 010vptx3 2
+Q14 010vptx3 0
+Q15 010vptx3 0
+Q18 010vptx3 1
+Q26 010vptx3 1
+Q31 010vptx3 1

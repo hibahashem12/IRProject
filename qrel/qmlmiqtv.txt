@@ -1,0 +1,3 @@
+Q17 qmlmiqtv 1
+Q29 qmlmiqtv 2
+Q34 qmlmiqtv 0

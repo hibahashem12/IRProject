@@ -1,0 +1,4 @@
+Q1 kromgrnu 1
+Q5 kromgrnu 0
+Q9 kromgrnu 0
+Q14 kromgrnu 0

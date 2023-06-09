@@ -1,0 +1,6 @@
+Q1 qw05apnf 2
+Q14 qw05apnf 2
+Q15 qw05apnf 0
+Q32 qw05apnf 2
+Q37 qw05apnf 0
+Q40 qw05apnf 2

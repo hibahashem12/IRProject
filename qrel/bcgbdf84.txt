@@ -1,0 +1,4 @@
+Q5 bcgbdf84 1
+Q29 bcgbdf84 2
+Q36 bcgbdf84 0
+Q37 bcgbdf84 0

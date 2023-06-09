@@ -1,0 +1,7 @@
+Q8 b67xpq12 0
+Q25 b67xpq12 0
+Q26 b67xpq12 2
+Q27 b67xpq12 1
+Q28 b67xpq12 0
+Q31 b67xpq12 0
+Q33 b67xpq12 0

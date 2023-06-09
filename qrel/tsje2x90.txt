@@ -1,0 +1,4 @@
+Q1 tsje2x90 0
+Q6 tsje2x90 2
+Q7 tsje2x90 0
+Q27 tsje2x90 1

@@ -1,0 +1,9 @@
+Q5 0b0fvnhn 1
+Q7 0b0fvnhn 0
+Q15 0b0fvnhn 0
+Q17 0b0fvnhn 2
+Q28 0b0fvnhn 1
+Q29 0b0fvnhn 2
+Q30 0b0fvnhn 1
+Q33 0b0fvnhn 0
+Q38 0b0fvnhn 1

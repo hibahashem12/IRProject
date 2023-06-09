@@ -1,0 +1,5 @@
+Q6 0ga5rel6 1
+Q11 0ga5rel6 1
+Q15 0ga5rel6 0
+Q17 0ga5rel6 0
+Q19 0ga5rel6 0

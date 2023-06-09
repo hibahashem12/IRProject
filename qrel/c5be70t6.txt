@@ -1,0 +1,9 @@
+Q1 c5be70t6 0
+Q3 c5be70t6 0
+Q8 c5be70t6 1
+Q13 c5be70t6 2
+Q16 c5be70t6 0
+Q26 c5be70t6 0
+Q27 c5be70t6 2
+Q32 c5be70t6 0
+Q35 c5be70t6 0

@@ -1,0 +1,9 @@
+Q3 ej1b1x53 0
+Q6 ej1b1x53 1
+Q8 ej1b1x53 0
+Q10 ej1b1x53 1
+Q13 ej1b1x53 0
+Q16 ej1b1x53 0
+Q19 ej1b1x53 0
+Q22 ej1b1x53 0
+Q27 ej1b1x53 1

@@ -1,0 +1,15 @@
+Q1 tomsdx3z 0
+Q5 tomsdx3z 2
+Q8 tomsdx3z 0
+Q15 tomsdx3z 0
+Q17 tomsdx3z 0
+Q20 tomsdx3z 0
+Q25 tomsdx3z 2
+Q26 tomsdx3z 0
+Q27 tomsdx3z 1
+Q29 tomsdx3z 2
+Q30 tomsdx3z 1
+Q33 tomsdx3z 0
+Q36 tomsdx3z 0
+Q37 tomsdx3z 0
+Q38 tomsdx3z 1

@@ -1,0 +1,6 @@
+Q1 99doz9m6 0
+Q3 99doz9m6 0
+Q16 99doz9m6 0
+Q18 99doz9m6 0
+Q21 99doz9m6 0
+Q27 99doz9m6 1

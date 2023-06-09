@@ -1,0 +1,5 @@
+Q12 9wd5x7r1 0
+Q13 9wd5x7r1 1
+Q15 9wd5x7r1 0
+Q31 9wd5x7r1 0
+Q34 9wd5x7r1 0

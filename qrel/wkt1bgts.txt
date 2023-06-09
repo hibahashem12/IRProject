@@ -1,0 +1,3 @@
+Q10 wkt1bgts 1
+Q12 wkt1bgts 0
+Q34 wkt1bgts 0

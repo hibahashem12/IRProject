@@ -1,0 +1,7 @@
+Q1 my16g91c 1
+Q9 my16g91c 0
+Q13 my16g91c 0
+Q14 my16g91c 0
+Q16 my16g91c 0
+Q32 my16g91c 0
+Q37 my16g91c 0

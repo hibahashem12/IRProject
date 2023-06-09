@@ -1,0 +1,3 @@
+Q17 bep0xtxa 1
+Q19 bep0xtxa 0
+Q28 bep0xtxa 0

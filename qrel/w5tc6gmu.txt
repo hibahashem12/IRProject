@@ -1,0 +1,13 @@
+Q2 w5tc6gmu 2
+Q3 w5tc6gmu 0
+Q6 w5tc6gmu 0
+Q8 w5tc6gmu 0
+Q9 w5tc6gmu 0
+Q13 w5tc6gmu 1
+Q14 w5tc6gmu 0
+Q15 w5tc6gmu 1
+Q16 w5tc6gmu 2
+Q22 w5tc6gmu 0
+Q31 w5tc6gmu 1
+Q44 w5tc6gmu 0
+Q49 w5tc6gmu 0

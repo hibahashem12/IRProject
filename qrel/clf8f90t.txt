@@ -1,0 +1,6 @@
+Q3 clf8f90t 0
+Q8 clf8f90t 0
+Q12 clf8f90t 2
+Q18 clf8f90t 1
+Q23 clf8f90t 0
+Q34 clf8f90t 0

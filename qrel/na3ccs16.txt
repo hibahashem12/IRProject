@@ -1,0 +1,12 @@
+Q4 na3ccs16 0
+Q11 na3ccs16 0
+Q13 na3ccs16 0
+Q22 na3ccs16 2
+Q23 na3ccs16 1
+Q24 na3ccs16 0
+Q25 na3ccs16 2
+Q34 na3ccs16 0
+Q38 na3ccs16 1
+Q39 na3ccs16 1
+Q42 na3ccs16 0
+Q47 na3ccs16 0

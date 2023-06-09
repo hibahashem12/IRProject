@@ -1,0 +1,4 @@
+Q4 5dhmmcy6 0
+Q8 5dhmmcy6 0
+Q20 5dhmmcy6 1
+Q32 5dhmmcy6 0

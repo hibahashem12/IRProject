@@ -1,0 +1,4 @@
+Q3 gpql06um 0
+Q4 gpql06um 1
+Q21 gpql06um 2
+Q41 gpql06um 0

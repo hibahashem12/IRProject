@@ -1,0 +1,5 @@
+Q11 ci0g1dno 0
+Q20 ci0g1dno 2
+Q22 ci0g1dno 1
+Q23 ci0g1dno 1
+Q34 ci0g1dno 0

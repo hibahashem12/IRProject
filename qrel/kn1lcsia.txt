@@ -1,0 +1,6 @@
+Q5 kn1lcsia 0
+Q22 kn1lcsia 1
+Q23 kn1lcsia 2
+Q28 kn1lcsia 0
+Q30 kn1lcsia 0
+Q34 kn1lcsia 0

@@ -1,0 +1,3 @@
+Q5 dq2empne 0
+Q20 dq2empne 1
+Q29 dq2empne 2

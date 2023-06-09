@@ -1,0 +1,7 @@
+Q1 4ihv80au 1
+Q3 4ihv80au 0
+Q5 4ihv80au 2
+Q9 4ihv80au 0
+Q29 4ihv80au 1
+Q36 4ihv80au 2
+Q37 4ihv80au 1

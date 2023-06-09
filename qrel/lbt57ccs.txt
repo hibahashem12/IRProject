@@ -1,0 +1,7 @@
+Q20 lbt57ccs 0
+Q22 lbt57ccs 2
+Q23 lbt57ccs 1
+Q24 lbt57ccs 0
+Q25 lbt57ccs 1
+Q31 lbt57ccs 0
+Q39 lbt57ccs 1

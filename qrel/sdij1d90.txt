@@ -1,0 +1,7 @@
+Q3 sdij1d90 0
+Q5 sdij1d90 2
+Q28 sdij1d90 2
+Q29 sdij1d90 2
+Q30 sdij1d90 0
+Q32 sdij1d90 0
+Q39 sdij1d90 2

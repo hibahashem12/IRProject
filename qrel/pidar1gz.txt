@@ -1,0 +1,17 @@
+Q1 pidar1gz 0
+Q3 pidar1gz 0
+Q5 pidar1gz 1
+Q7 pidar1gz 0
+Q11 pidar1gz 0
+Q13 pidar1gz 0
+Q14 pidar1gz 0
+Q15 pidar1gz 0
+Q17 pidar1gz 2
+Q20 pidar1gz 0
+Q25 pidar1gz 0
+Q28 pidar1gz 0
+Q29 pidar1gz 2
+Q30 pidar1gz 1
+Q33 pidar1gz 2
+Q38 pidar1gz 1
+Q50 pidar1gz 0

@@ -1,0 +1,6 @@
+Q1 cbc98t7x 0
+Q3 cbc98t7x 1
+Q6 cbc98t7x 1
+Q10 cbc98t7x 0
+Q32 cbc98t7x 1
+Q37 cbc98t7x 2

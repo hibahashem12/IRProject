@@ -1,0 +1,4 @@
+Q1 rmmp3gms 1
+Q5 rmmp3gms 0
+Q13 rmmp3gms 0
+Q36 rmmp3gms 2

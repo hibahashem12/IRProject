@@ -1,0 +1,4 @@
+Q32 13tc3loo 1
+Q37 13tc3loo 0
+Q40 13tc3loo 2
+Q50 13tc3loo 0

@@ -1,0 +1,9 @@
+Q5 cx6u4qx8 1
+Q17 cx6u4qx8 1
+Q30 cx6u4qx8 0
+Q32 cx6u4qx8 0
+Q33 cx6u4qx8 0
+Q36 cx6u4qx8 0
+Q38 cx6u4qx8 2
+Q46 cx6u4qx8 1
+Q50 cx6u4qx8 0

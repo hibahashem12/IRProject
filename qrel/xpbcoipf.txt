@@ -1,0 +1,6 @@
+Q1 xpbcoipf 1
+Q3 xpbcoipf 1
+Q5 xpbcoipf 0
+Q16 xpbcoipf 0
+Q29 xpbcoipf 1
+Q36 xpbcoipf 2

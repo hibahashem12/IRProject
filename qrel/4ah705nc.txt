@@ -1,0 +1,6 @@
+Q12 4ah705nc 0
+Q13 4ah705nc 1
+Q15 4ah705nc 2
+Q17 4ah705nc 0
+Q31 4ah705nc 1
+Q32 4ah705nc 0

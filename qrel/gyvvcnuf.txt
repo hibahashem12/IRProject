@@ -1,0 +1,8 @@
+Q9 gyvvcnuf 0
+Q11 gyvvcnuf 0
+Q13 gyvvcnuf 1
+Q15 gyvvcnuf 1
+Q16 gyvvcnuf 1
+Q18 gyvvcnuf 1
+Q26 gyvvcnuf 0
+Q27 gyvvcnuf 1

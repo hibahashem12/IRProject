@@ -1,0 +1,2 @@
+Q8 usbw270p 1
+Q44 usbw270p 0

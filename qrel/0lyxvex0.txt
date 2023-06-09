@@ -1,0 +1,11 @@
+Q1 0lyxvex0 0
+Q4 0lyxvex0 0
+Q8 0lyxvex0 0
+Q10 0lyxvex0 0
+Q13 0lyxvex0 0
+Q18 0lyxvex0 0
+Q19 0lyxvex0 0
+Q21 0lyxvex0 0
+Q27 0lyxvex0 0
+Q31 0lyxvex0 0
+Q45 0lyxvex0 2

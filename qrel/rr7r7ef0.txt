@@ -1,0 +1,5 @@
+Q1 rr7r7ef0 1
+Q8 rr7r7ef0 0
+Q12 rr7r7ef0 1
+Q13 rr7r7ef0 2
+Q44 rr7r7ef0 0

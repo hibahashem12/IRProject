@@ -1,0 +1,10 @@
+Q1 85acs4lk 1
+Q5 85acs4lk 0
+Q13 85acs4lk 1
+Q15 85acs4lk 0
+Q16 85acs4lk 0
+Q25 85acs4lk 0
+Q27 85acs4lk 0
+Q29 85acs4lk 1
+Q36 85acs4lk 2
+Q37 85acs4lk 2

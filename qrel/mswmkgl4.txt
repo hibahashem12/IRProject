@@ -1,0 +1,9 @@
+Q2 mswmkgl4 0
+Q5 mswmkgl4 1
+Q13 mswmkgl4 0
+Q20 mswmkgl4 2
+Q29 mswmkgl4 2
+Q32 mswmkgl4 0
+Q35 mswmkgl4 0
+Q36 mswmkgl4 2
+Q37 mswmkgl4 0

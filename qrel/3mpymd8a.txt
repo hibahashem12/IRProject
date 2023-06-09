@@ -1,0 +1,7 @@
+Q7 3mpymd8a 1
+Q13 3mpymd8a 0
+Q17 3mpymd8a 1
+Q30 3mpymd8a 1
+Q32 3mpymd8a 0
+Q33 3mpymd8a 1
+Q40 3mpymd8a 0

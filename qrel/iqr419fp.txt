@@ -1,0 +1,5 @@
+Q1 iqr419fp 0
+Q2 iqr419fp 0
+Q9 iqr419fp 0
+Q12 iqr419fp 1
+Q13 iqr419fp 1

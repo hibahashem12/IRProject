@@ -1,0 +1,6 @@
+Q1 047xpt2c 0
+Q5 047xpt2c 2
+Q17 047xpt2c 1
+Q29 047xpt2c 0
+Q30 047xpt2c 0
+Q50 047xpt2c 0
